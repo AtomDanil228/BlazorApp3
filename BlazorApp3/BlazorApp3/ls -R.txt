@@ -1,0 +1,1694 @@
+PS C:\Users\danya\Source\Repos\BlazorApp3> ls -R
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        12.08.2025     23:34                BlazorApp3
+-a----        12.08.2025     23:37           1669 BlazorApp3.sln
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:45                BlazorApp3
+d-----        13.08.2025      0:45                BlazorApp3.Client
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:45                bin
+d-----        12.08.2025     23:34                Components
+d-----        13.08.2025      0:46                obj
+d-----        12.08.2025     23:34                Properties
+d-----        12.08.2025     23:34                wwwroot
+-a----        12.08.2025     23:34            127 appsettings.Development.json
+-a----        12.08.2025     23:34            151 appsettings.json
+-a----        12.08.2025     23:34            438 BlazorApp3.csproj
+-a----        12.08.2025     23:35            238 BlazorApp3.csproj.user
+-a----        12.08.2025     23:44            980 Program.cs
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\bin
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:45                Debug
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\bin\Debug
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:46                net8.0
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\bin\Debug\net8.0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:46                BlazorDebugProxy
+-a----        12.08.2025     23:34            127 appsettings.Development.json
+-a----        12.08.2025     23:34            151 appsettings.json
+-a----        13.08.2025      0:46          22016 BlazorApp3.Client.dll
+-a----        13.08.2025      0:46          24292 BlazorApp3.Client.pdb
+-a----        13.08.2025      0:46         422477 BlazorApp3.Client.staticwebassets.endpoints.json
+-a----        13.08.2025      0:46          60732 BlazorApp3.Client.staticwebassets.runtime.json
+-a----        13.08.2025      0:46          19222 BlazorApp3.deps.json
+-a----        13.08.2025      0:46          12288 BlazorApp3.dll
+-a----        13.08.2025      0:46         150016 BlazorApp3.exe
+-a----        13.08.2025      0:46          25532 BlazorApp3.pdb
+-a----        13.08.2025      0:46            416 BlazorApp3.runtimeconfig.json
+-a----        13.08.2025      0:46         428510 BlazorApp3.staticwebassets.endpoints.json
+-a----        13.08.2025      0:46          61585 BlazorApp3.staticwebassets.runtime.json
+-a----        23.07.2025      3:42          51472 Microsoft.AspNetCore.Authorization.dll
+-a----        23.07.2025      3:42         334632 Microsoft.AspNetCore.Components.dll
+-a----        23.07.2025      3:42          45832 Microsoft.AspNetCore.Components.Forms.dll
+-a----        23.07.2025      3:42         174360 Microsoft.AspNetCore.Components.Web.dll
+-a----        23.07.2025      3:44         121120 Microsoft.AspNetCore.Components.WebAssembly.dll
+-a----        23.07.2025      3:46          68872 Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+-a----        23.07.2025      3:42          16152 Microsoft.AspNetCore.Metadata.dll
+-a----        14.06.2024      4:35          42784 Microsoft.Extensions.Configuration.Binder.dll
+-a----        14.06.2024      4:36          27936 Microsoft.Extensions.Configuration.FileExtensions.dll
+-a----        17.09.2024      8:10          26920 Microsoft.Extensions.Configuration.Json.dll
+-a----        17.09.2024      8:09          63768 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+-a----        17.09.2024      8:09          92952 Microsoft.Extensions.DependencyInjection.dll
+-a----        17.01.2025      3:55          65288 Microsoft.Extensions.Logging.Abstractions.dll
+-a----        17.09.2024      8:10          50976 Microsoft.Extensions.Logging.dll
+-a----        18.01.2024     12:05          64776 Microsoft.Extensions.Options.dll
+-a----        23.07.2025      3:42          66344 Microsoft.JSInterop.dll
+-a----        23.07.2025      3:43          24872 Microsoft.JSInterop.WebAssembly.dll
+-a----        08.03.2023     16:09         712464 Newtonsoft.Json.dll
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\bin\Debug\net8.0\BlazorDebugProxy
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        16.07.2025      2:31          39200 BrowserDebugHost.dll
+-a----        16.07.2025      2:31            497 BrowserDebugHost.runtimeconfig.json
+-a----        16.07.2025      2:31         597776 BrowserDebugProxy.dll
+-a----        17.11.2023      3:59        6501552 Microsoft.CodeAnalysis.CSharp.dll
+-a----        17.11.2023      4:02          34056 Microsoft.CodeAnalysis.CSharp.Scripting.dll
+-a----        17.11.2023      3:51        2895536 Microsoft.CodeAnalysis.dll
+-a----        17.11.2023      3:59         137888 Microsoft.CodeAnalysis.Scripting.dll
+-a----        17.01.2023      3:31         111552 Microsoft.FileFormats.dll
+-a----        16.07.2025      2:30          41744 Microsoft.NET.WebAssembly.Webcil.dll
+-a----        17.01.2023      3:31          62392 Microsoft.SymbolStore.dll
+-a----        08.03.2023     16:09         764000 Newtonsoft.Json.dll
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\Components
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        12.08.2025     23:34                Pages
+-a----        12.08.2025     23:34            601 App.razor
+-a----        12.08.2025     23:34            418 _Imports.razor
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\Components\Pages
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        12.08.2025     23:34           1215 Error.razor
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\obj
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:45                Debug
+-a----        13.08.2025      0:45           6521 BlazorApp3.csproj.nuget.dgspec.json
+-a----        13.08.2025      0:45           1684 BlazorApp3.csproj.nuget.g.props
+-a----        13.08.2025      0:45           1879 BlazorApp3.csproj.nuget.g.targets
+-a----        13.08.2025      0:45          58776 project.assets.json
+-a----        13.08.2025      0:46           4042 project.nuget.cache
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\obj\Debug
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:46                net8.0
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\obj\Debug\net8.0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:46                ref
+d-----        13.08.2025      0:46                refint
+d-----        13.08.2025      0:45                scopedcss
+d-----        13.08.2025      0:45                staticwebassets
+-a----        13.08.2025      0:45            198 .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+-a----        13.08.2025      0:48              2 ApiEndpoints.json
+-a----        13.08.2025      0:46         150016 apphost.exe
+-a----        13.08.2025      0:46           1003 BlazorApp3.AssemblyInfo.cs
+-a----        13.08.2025      0:46             66 BlazorApp3.AssemblyInfoInputs.cache
+-a----        13.08.2025      0:45          17748 BlazorApp3.assets.cache
+-a----        13.08.2025      0:46           3757 BlazorApp3.csproj.AssemblyReference.cache
+-a----        13.08.2025      0:45              0 BlazorApp3.csproj.BuildWithSkipAnalyzers
+-a----        13.08.2025      0:46             66 BlazorApp3.csproj.CoreCompileInputs.cache
+-a----        13.08.2025      0:46           7352 BlazorApp3.csproj.FileListAbsolute.txt
+-a----        13.08.2025      0:46              0 BlazorApp3.csproj.Up2Date
+-a----        13.08.2025      0:46          12288 BlazorApp3.dll
+-a----        13.08.2025      0:46           1700 BlazorApp3.GeneratedMSBuildEditorConfig.editorconfig
+-a----        13.08.2025      0:46             66 BlazorApp3.genruntimeconfig.cache
+-a----        13.08.2025      0:45            770 BlazorApp3.GlobalUsings.g.cs
+-a----        13.08.2025      0:46              0 BlazorApp3.MvcApplicationPartsAssemblyInfo.cache
+-a----        13.08.2025      0:46          25532 BlazorApp3.pdb
+-a----        13.08.2025      0:46            463 rjimswa.dswa.cache.json
+-a----        13.08.2025      0:46           1389 rjsmcshtml.dswa.cache.json
+-a----        13.08.2025      0:46           1389 rjsmrazor.dswa.cache.json
+-a----        13.08.2025      0:46           4701 rpswa.dswa.cache.json
+-a----        13.08.2025      0:46         428510 staticwebassets.build.endpoints.json
+-a----        13.08.2025      0:46         930559 staticwebassets.build.json
+-a----        13.08.2025      0:46             44 staticwebassets.build.json.cache
+-a----        13.08.2025      0:46          61585 staticwebassets.development.json
+-a----        13.08.2025      0:46            226 staticwebassets.references.upToDateCheck.txt
+-a----        13.08.2025      0:45              0 staticwebassets.removed.txt
+-a----        13.08.2025      0:46            116 staticwebassets.upToDateCheck.txt
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\obj\Debug\net8.0\ref
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46           6144 BlazorApp3.dll
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\obj\Debug\net8.0\refint
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46           6144 BlazorApp3.dll
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\obj\Debug\net8.0\scopedcss
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:46                bundle
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\obj\Debug\net8.0\scopedcss\bundle
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46             58 BlazorApp3.styles.css
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\Properties
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        12.08.2025     23:34           1464 launchSettings.json
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\wwwroot
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        12.08.2025     23:34                bootstrap
+-a----        12.08.2025     23:34           2591 app.css
+-a----        12.08.2025     23:34           1148 favicon.png
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3\wwwroot\bootstrap
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        12.08.2025     23:34         162720 bootstrap.min.css
+-a----        12.08.2025     23:34         449111 bootstrap.min.css.map
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:45                bin
+d-----        13.08.2025      0:32                Layout
+d-----        13.08.2025      0:18                Models
+d-----        13.08.2025      0:46                obj
+d-----        13.08.2025      0:30                Pages
+d-----        12.08.2025     23:35                Properties
+d-----        12.08.2025     23:34                wwwroot
+-a----        12.08.2025     23:49            569 BlazorApp3.Client.csproj
+-a----        13.08.2025      0:41            158 Program.cs
+-a----        12.08.2025     23:34            262 Routes.razor
+-a----        12.08.2025     23:34            369 _Imports.razor
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\bin
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:45                Debug
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\bin\Debug
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:46                net8.0
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\bin\Debug\net8.0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:45                wwwroot
+-a----        13.08.2025      0:46          22016 BlazorApp3.Client.dll
+-a----        13.08.2025      0:46          24292 BlazorApp3.Client.pdb
+-a----        13.08.2025      0:46         422477 BlazorApp3.Client.staticwebassets.endpoints.json
+-a----        13.08.2025      0:46          60732 BlazorApp3.Client.staticwebassets.runtime.json
+-a----        15.07.2025     17:48          35803 dotnet.js
+-a----        15.07.2025     17:48          49719 dotnet.js.map
+-a----        15.07.2025     17:49         160089 dotnet.native.js
+-a----        15.07.2025     17:49        2919938 dotnet.native.wasm
+-a----        15.07.2025     17:49         223202 dotnet.runtime.js
+-a----        15.07.2025     17:49         318294 dotnet.runtime.js.map
+-a----        15.07.2025     17:48           1322 emcc-props.json
+-a----        23.10.2023     14:14         956416 icudt_CJK.dat
+-a----        23.10.2023     14:14         550832 icudt_EFIGS.dat
+-a----        23.10.2023     14:14        1107168 icudt_no_CJK.dat
+-a----        23.07.2025      3:42          51472 Microsoft.AspNetCore.Authorization.dll
+-a----        23.07.2025      3:42         334632 Microsoft.AspNetCore.Components.dll
+-a----        23.07.2025      3:42          45832 Microsoft.AspNetCore.Components.Forms.dll
+-a----        23.07.2025      3:42         174360 Microsoft.AspNetCore.Components.Web.dll
+-a----        23.07.2025      3:44         121120 Microsoft.AspNetCore.Components.WebAssembly.dll
+-a----        23.07.2025      3:42          16152 Microsoft.AspNetCore.Metadata.dll
+-a----        15.07.2025     20:45         309000 Microsoft.CSharp.dll
+-a----        31.10.2023     23:59          27936 Microsoft.Extensions.Configuration.Abstractions.dll
+-a----        14.06.2024      4:35          42784 Microsoft.Extensions.Configuration.Binder.dll
+-a----        31.10.2023     23:59          43800 Microsoft.Extensions.Configuration.dll
+-a----        14.06.2024      4:36          27936 Microsoft.Extensions.Configuration.FileExtensions.dll
+-a----        17.09.2024      8:10          26920 Microsoft.Extensions.Configuration.Json.dll
+-a----        17.09.2024      8:09          63768 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+-a----        17.09.2024      8:09          92952 Microsoft.Extensions.DependencyInjection.dll
+-a----        31.10.2023     23:59          22176 Microsoft.Extensions.FileProviders.Abstractions.dll
+-a----        31.10.2023     23:59          44808 Microsoft.Extensions.FileProviders.Physical.dll
+-a----        31.10.2023     23:58          45848 Microsoft.Extensions.FileSystemGlobbing.dll
+-a----        17.01.2025      3:55          65288 Microsoft.Extensions.Logging.Abstractions.dll
+-a----        17.09.2024      8:10          50976 Microsoft.Extensions.Logging.dll
+-a----        18.01.2024     12:05          64776 Microsoft.Extensions.Options.dll
+-a----        31.10.2023     23:58          43680 Microsoft.Extensions.Primitives.dll
+-a----        23.07.2025      3:42          66344 Microsoft.JSInterop.dll
+-a----        23.07.2025      3:43          24872 Microsoft.JSInterop.WebAssembly.dll
+-a----        15.07.2025     20:45         429352 Microsoft.VisualBasic.Core.dll
+-a----        15.07.2025     20:47          17680 Microsoft.VisualBasic.dll
+-a----        15.07.2025     20:43          15632 Microsoft.Win32.Primitives.dll
+-a----        15.07.2025     20:44          32016 Microsoft.Win32.Registry.dll
+-a----        15.07.2025     20:48          59664 mscorlib.dll
+-a----        15.07.2025     20:50         101128 netstandard.dll
+-a----        08.03.2023     16:09         712464 Newtonsoft.Json.dll
+-a----        15.07.2025     20:47          15632 System.AppContext.dll
+-a----        15.07.2025     20:50          15624 System.Buffers.dll
+-a----        15.07.2025     20:45          85792 System.Collections.Concurrent.dll
+-a----        15.07.2025     20:45         102184 System.Collections.dll
+-a----        15.07.2025     20:44         245520 System.Collections.Immutable.dll
+-a----        15.07.2025     20:45          46872 System.Collections.NonGeneric.dll
+-a----        15.07.2025     20:45          47400 System.Collections.Specialized.dll
+-a----        15.07.2025     20:45         101672 System.ComponentModel.Annotations.dll
+-a----        15.07.2025     21:09          17192 System.ComponentModel.DataAnnotations.dll
+-a----        15.07.2025     20:45          16680 System.ComponentModel.dll
+-a----        15.07.2025     20:45          26416 System.ComponentModel.EventBasedAsync.dll
+-a----        15.07.2025     20:44          41736 System.ComponentModel.Primitives.dll
+-a----        15.07.2025     20:44         302376 System.ComponentModel.TypeConverter.dll
+-a----        15.07.2025     20:48          19720 System.Configuration.dll
+-a----        15.07.2025     20:47          54544 System.Console.dll
+-a----        15.07.2025     20:48          23864 System.Core.dll
+-a----        15.07.2025     20:45        1018664 System.Data.Common.dll
+-a----        15.07.2025     20:47          16168 System.Data.DataSetExtensions.dll
+-a----        15.07.2025     20:48          25360 System.Data.dll
+-a----        15.07.2025     20:45          16656 System.Diagnostics.Contracts.dll
+-a----        15.07.2025     20:48          16152 System.Diagnostics.Debug.dll
+-a----        15.07.2025     20:44         164128 System.Diagnostics.DiagnosticSource.dll
+-a----        15.07.2025     20:48          21272 System.Diagnostics.FileVersionInfo.dll
+-a----        15.07.2025     20:47          55056 System.Diagnostics.Process.dll
+-a----        15.07.2025     20:44          26408 System.Diagnostics.StackTrace.dll
+-a----        15.07.2025     20:45          31528 System.Diagnostics.TextWriterTraceListener.dll
+-a----        15.07.2025     20:48          15632 System.Diagnostics.Tools.dll
+-a----        15.07.2025     20:45          57640 System.Diagnostics.TraceSource.dll
+-a----        15.07.2025     20:45          16680 System.Diagnostics.Tracing.dll
+-a----        15.07.2025     20:47          50472 System.dll
+-a----        15.07.2025     20:48          20776 System.Drawing.dll
+-a----        15.07.2025     20:44          63272 System.Drawing.Primitives.dll
+-a----        15.07.2025     20:47          16696 System.Dynamic.Runtime.dll
+-a----        15.07.2025     20:45          97064 System.Formats.Asn1.dll
+-a----        15.07.2025     20:50          37160 System.Formats.Tar.dll
+-a----        15.07.2025     20:46          16136 System.Globalization.Calendars.dll
+-a----        15.07.2025     20:48          16144 System.Globalization.dll
+-a----        15.07.2025     20:48          15632 System.Globalization.Extensions.dll
+-a----        15.07.2025     20:48          26928 System.IO.Compression.Brotli.dll
+-a----        15.07.2025     20:48         108328 System.IO.Compression.dll
+-a----        15.07.2025     20:47          15648 System.IO.Compression.FileSystem.dll
+-a----        15.07.2025     20:45          37160 System.IO.Compression.ZipFile.dll
+-a----        15.07.2025     20:47          16168 System.IO.dll
+-a----        15.07.2025     20:44          30992 System.IO.FileSystem.AccessControl.dll
+-a----        15.07.2025     20:48          16144 System.IO.FileSystem.dll
+-a----        15.07.2025     20:48          23312 System.IO.FileSystem.DriveInfo.dll
+-a----        15.07.2025     20:47          15632 System.IO.FileSystem.Primitives.dll
+-a----        15.07.2025     20:47          32040 System.IO.FileSystem.Watcher.dll
+-a----        15.07.2025     20:48          34088 System.IO.IsolatedStorage.dll
+-a----        15.07.2025     20:47          48424 System.IO.MemoryMappedFiles.dll
+-a----        31.10.2023     23:59          77984 System.IO.Pipelines.dll
+-a----        15.07.2025     20:44          22800 System.IO.Pipes.AccessControl.dll
+-a----        15.07.2025     20:48          40712 System.IO.Pipes.dll
+-a----        15.07.2025     20:48          15632 System.IO.UnmanagedMemoryStream.dll
+-a----        15.07.2025     20:47         134928 System.Linq.dll
+-a----        15.07.2025     20:45         575248 System.Linq.Expressions.dll
+-a----        15.07.2025     20:44         224520 System.Linq.Parallel.dll
+-a----        15.07.2025     20:45          74000 System.Linq.Queryable.dll
+-a----        15.07.2025     20:44          55080 System.Memory.dll
+-a----        15.07.2025     20:47          17696 System.Net.dll
+-a----        15.07.2025     20:48         277288 System.Net.Http.dll
+-a----        15.07.2025     20:45          55608 System.Net.Http.Json.dll
+-a----        15.07.2025     20:50          55056 System.Net.HttpListener.dll
+-a----        15.07.2025     20:50         103720 System.Net.Mail.dll
+-a----        15.07.2025     20:47          23320 System.Net.NameResolution.dll
+-a----        15.07.2025     20:47          41232 System.Net.NetworkInformation.dll
+-a----        15.07.2025     20:48          26912 System.Net.Ping.dll
+-a----        15.07.2025     20:48         104720 System.Net.Primitives.dll
+-a----        15.07.2025     20:48          38160 System.Net.Quic.dll
+-a----        15.07.2025     20:47          60688 System.Net.Requests.dll
+-a----        15.07.2025     20:48         108312 System.Net.Security.dll
+-a----        15.07.2025     20:45          26384 System.Net.ServicePoint.dll
+-a----        15.07.2025     20:48          73480 System.Net.Sockets.dll
+-a----        15.07.2025     20:50          52504 System.Net.WebClient.dll
+-a----        15.07.2025     20:45          33576 System.Net.WebHeaderCollection.dll
+-a----        15.07.2025     20:49          22288 System.Net.WebProxy.dll
+-a----        15.07.2025     20:48          47400 System.Net.WebSockets.Client.dll
+-a----        15.07.2025     20:48          81680 System.Net.WebSockets.dll
+-a----        15.07.2025     20:48          15624 System.Numerics.dll
+-a----        15.07.2025     20:45          16144 System.Numerics.Vectors.dll
+-a----        15.07.2025     20:45          39736 System.ObjectModel.dll
+-a----        15.07.2025     20:54        4210448 System.Private.CoreLib.dll
+-a----        15.07.2025     20:45         854328 System.Private.DataContractSerialization.dll
+-a----        15.07.2025     20:44         102184 System.Private.Uri.dll
+-a----        15.07.2025     20:45        3116832 System.Private.Xml.dll
+-a----        15.07.2025     20:45         153384 System.Private.Xml.Linq.dll
+-a----        15.07.2025     20:45          37160 System.Reflection.DispatchProxy.dll
+-a----        15.07.2025     20:47          16664 System.Reflection.dll
+-a----        15.07.2025     20:44          71944 System.Reflection.Emit.dll
+-a----        15.07.2025     20:44          16168 System.Reflection.Emit.ILGeneration.dll
+-a----        15.07.2025     20:45          16176 System.Reflection.Emit.Lightweight.dll
+-a----        15.07.2025     20:48          15632 System.Reflection.Extensions.dll
+-a----        15.07.2025     20:45         475944 System.Reflection.Metadata.dll
+-a----        15.07.2025     20:45          16136 System.Reflection.Primitives.dll
+-a----        15.07.2025     20:45          23816 System.Reflection.TypeExtensions.dll
+-a----        15.07.2025     20:48          15632 System.Resources.Reader.dll
+-a----        15.07.2025     20:48          16168 System.Resources.ResourceManager.dll
+-a----        15.07.2025     20:46          26888 System.Resources.Writer.dll
+-a----        15.07.2025     20:48          15624 System.Runtime.CompilerServices.Unsafe.dll
+-a----        15.07.2025     20:47          17688 System.Runtime.CompilerServices.VisualC.dll
+-a----        15.07.2025     20:45          43784 System.Runtime.dll
+-a----        15.07.2025     20:48          18216 System.Runtime.Extensions.dll
+-a----        15.07.2025     20:48          15624 System.Runtime.Handles.dll
+-a----        15.07.2025     20:47          58120 System.Runtime.InteropServices.dll
+-a----        15.07.2025     20:48          93496 System.Runtime.InteropServices.JavaScript.dll
+-a----        15.07.2025     20:48          15656 System.Runtime.InteropServices.RuntimeInformation.dll
+-a----        15.07.2025     20:44          17168 System.Runtime.Intrinsics.dll
+-a----        15.07.2025     20:45          16184 System.Runtime.Loader.dll
+-a----        15.07.2025     20:48         128264 System.Runtime.Numerics.dll
+-a----        15.07.2025     20:48          17192 System.Runtime.Serialization.dll
+-a----        15.07.2025     20:48          65832 System.Runtime.Serialization.Formatters.dll
+-a----        15.07.2025     20:45          16136 System.Runtime.Serialization.Json.dll
+-a----        15.07.2025     20:48          23352 System.Runtime.Serialization.Primitives.dll
+-a----        15.07.2025     20:44          17208 System.Runtime.Serialization.Xml.dll
+-a----        15.07.2025     20:47          56616 System.Security.AccessControl.dll
+-a----        15.07.2025     20:47          53032 System.Security.Claims.dll
+-a----        15.07.2025     20:48          17680 System.Security.Cryptography.Algorithms.dll
+-a----        15.07.2025     20:48          16672 System.Security.Cryptography.Cng.dll
+-a----        15.07.2025     20:48          16152 System.Security.Cryptography.Csp.dll
+-a----        15.07.2025     20:48         480032 System.Security.Cryptography.dll
+-a----        15.07.2025     20:48          16136 System.Security.Cryptography.Encoding.dll
+-a----        15.07.2025     20:47          15672 System.Security.Cryptography.OpenSsl.dll
+-a----        15.07.2025     20:47          16168 System.Security.Cryptography.Primitives.dll
+-a----        15.07.2025     20:48          17168 System.Security.Cryptography.X509Certificates.dll
+-a----        15.07.2025     20:48          18720 System.Security.dll
+-a----        15.07.2025     20:47          15672 System.Security.Principal.dll
+-a----        15.07.2025     20:47          36648 System.Security.Principal.Windows.dll
+-a----        15.07.2025     20:47          15640 System.Security.SecureString.dll
+-a----        15.07.2025     21:09          17168 System.ServiceModel.Web.dll
+-a----        15.07.2025     20:48          16184 System.ServiceProcess.dll
+-a----        15.07.2025     20:47         740656 System.Text.Encoding.CodePages.dll
+-a----        15.07.2025     20:46          16136 System.Text.Encoding.dll
+-a----        15.07.2025     20:44          16184 System.Text.Encoding.Extensions.dll
+-a----        15.07.2025     20:50          70952 System.Text.Encodings.Web.dll
+-a----        15.07.2025     20:49         580392 System.Text.Json.dll
+-a----        15.07.2025     20:48         359688 System.Text.RegularExpressions.dll
+-a----        15.07.2025     20:46          53016 System.Threading.Channels.dll
+-a----        15.07.2025     20:47          44328 System.Threading.dll
+-a----        15.07.2025     20:44          16136 System.Threading.Overlapped.dll
+-a----        15.07.2025     20:48         186656 System.Threading.Tasks.Dataflow.dll
+-a----        15.07.2025     20:48          17168 System.Threading.Tasks.dll
+-a----        15.07.2025     20:50          16144 System.Threading.Tasks.Extensions.dll
+-a----        15.07.2025     20:47          62752 System.Threading.Tasks.Parallel.dll
+-a----        15.07.2025     20:44          16176 System.Threading.Thread.dll
+-a----        15.07.2025     20:45          16168 System.Threading.ThreadPool.dll
+-a----        15.07.2025     20:48          15632 System.Threading.Timer.dll
+-a----        15.07.2025     20:48          16656 System.Transactions.dll
+-a----        15.07.2025     20:46         174864 System.Transactions.Local.dll
+-a----        15.07.2025     20:50          15656 System.ValueTuple.dll
+-a----        15.07.2025     20:48          15664 System.Web.dll
+-a----        15.07.2025     20:46          27928 System.Web.HttpUtility.dll
+-a----        15.07.2025     20:47          16168 System.Windows.dll
+-a----        15.07.2025     20:51          23848 System.Xml.dll
+-a----        15.07.2025     20:51          16136 System.Xml.Linq.dll
+-a----        15.07.2025     20:45          22296 System.Xml.ReaderWriter.dll
+-a----        15.07.2025     20:51          16696 System.Xml.Serialization.dll
+-a----        15.07.2025     20:45          16168 System.Xml.XDocument.dll
+-a----        15.07.2025     20:52          16168 System.Xml.XmlDocument.dll
+-a----        15.07.2025     20:44          18184 System.Xml.XmlSerializer.dll
+-a----        15.07.2025     20:44          16184 System.Xml.XPath.dll
+-a----        15.07.2025     20:46          16184 System.Xml.XPath.XDocument.dll
+-a----        15.07.2025     21:09          16656 WindowsBase.dll
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\bin\Debug\net8.0\wwwroot
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:46                _framework
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\bin\Debug\net8.0\wwwroot\_framework
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46          19835 blazor.boot.json
+-a----        13.08.2025      0:46           8940 blazor.boot.json.gz
+-a----        23.07.2025      3:41          60300 blazor.webassembly.js
+-a----        13.08.2025      0:46          19025 blazor.webassembly.js.gz
+-a----        13.08.2025      0:46          24292 BlazorApp3.Client.pdb
+-a----        13.08.2025      0:46          16753 BlazorApp3.Client.pdb.gz
+-a----        13.08.2025      0:46          21781 BlazorApp3.Client.wasm
+-a----        13.08.2025      0:46           9611 BlazorApp3.Client.wasm.gz
+-a----        15.07.2025     17:48          35803 dotnet.js
+-a----        13.08.2025      0:46          11441 dotnet.js.gz
+-a----        15.07.2025     17:48          49719 dotnet.js.map
+-a----        13.08.2025      0:46          18725 dotnet.js.map.gz
+-a----        15.07.2025     17:49         160089 dotnet.native.js
+-a----        13.08.2025      0:46          36156 dotnet.native.js.gz
+-a----        15.07.2025     17:49        2919938 dotnet.native.wasm
+-a----        13.08.2025      0:46        1154406 dotnet.native.wasm.gz
+-a----        15.07.2025     17:49         223202 dotnet.runtime.js
+-a----        13.08.2025      0:46          64972 dotnet.runtime.js.gz
+-a----        15.07.2025     17:49         318294 dotnet.runtime.js.map
+-a----        13.08.2025      0:46         100294 dotnet.runtime.js.map.gz
+-a----        15.07.2025     17:48           1322 emcc-props.json
+-a----        13.08.2025      0:46            592 emcc-props.json.gz
+-a----        23.10.2023     14:14         956416 icudt_CJK.dat
+-a----        13.08.2025      0:46         333110 icudt_CJK.dat.gz
+-a----        23.10.2023     14:14         550832 icudt_EFIGS.dat
+-a----        13.08.2025      0:46         196037 icudt_EFIGS.dat.gz
+-a----        23.10.2023     14:14        1107168 icudt_no_CJK.dat
+-a----        13.08.2025      0:46         317618 icudt_no_CJK.dat.gz
+-a----        13.08.2025      0:46          40725 Microsoft.AspNetCore.Authorization.wasm
+-a----        13.08.2025      0:46          17683 Microsoft.AspNetCore.Authorization.wasm.gz
+-a----        13.08.2025      0:46          35093 Microsoft.AspNetCore.Components.Forms.wasm
+-a----        13.08.2025      0:46          16297 Microsoft.AspNetCore.Components.Forms.wasm.gz
+-a----        13.08.2025      0:46         323861 Microsoft.AspNetCore.Components.wasm
+-a----        13.08.2025      0:46         129425 Microsoft.AspNetCore.Components.wasm.gz
+-a----        13.08.2025      0:46         163605 Microsoft.AspNetCore.Components.Web.wasm
+-a----        13.08.2025      0:46          65393 Microsoft.AspNetCore.Components.Web.wasm.gz
+-a----        13.08.2025      0:46         110357 Microsoft.AspNetCore.Components.WebAssembly.wasm
+-a----        13.08.2025      0:46          46095 Microsoft.AspNetCore.Components.WebAssembly.wasm.gz
+-a----        13.08.2025      0:46           5397 Microsoft.AspNetCore.Metadata.wasm
+-a----        13.08.2025      0:46           2407 Microsoft.AspNetCore.Metadata.wasm.gz
+-a----        13.08.2025      0:46         298261 Microsoft.CSharp.wasm
+-a----        13.08.2025      0:46         131198 Microsoft.CSharp.wasm.gz
+-a----        13.08.2025      0:46          17173 Microsoft.Extensions.Configuration.Abstractions.wasm
+-a----        13.08.2025      0:46           7793 Microsoft.Extensions.Configuration.Abstractions.wasm.gz
+-a----        13.08.2025      0:46          32021 Microsoft.Extensions.Configuration.Binder.wasm
+-a----        13.08.2025      0:46          13809 Microsoft.Extensions.Configuration.Binder.wasm.gz
+-a----        13.08.2025      0:46          17173 Microsoft.Extensions.Configuration.FileExtensions.wasm
+-a----        13.08.2025      0:46           7680 Microsoft.Extensions.Configuration.FileExtensions.wasm.gz
+-a----        13.08.2025      0:46          16149 Microsoft.Extensions.Configuration.Json.wasm
+-a----        13.08.2025      0:46           7509 Microsoft.Extensions.Configuration.Json.wasm.gz
+-a----        13.08.2025      0:46          33045 Microsoft.Extensions.Configuration.wasm
+-a----        13.08.2025      0:46          15095 Microsoft.Extensions.Configuration.wasm.gz
+-a----        13.08.2025      0:46          53013 Microsoft.Extensions.DependencyInjection.Abstractions.wasm
+-a----        13.08.2025      0:46          20683 Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz
+-a----        13.08.2025      0:46          82197 Microsoft.Extensions.DependencyInjection.wasm
+-a----        13.08.2025      0:46          35118 Microsoft.Extensions.DependencyInjection.wasm.gz
+-a----        13.08.2025      0:46          11541 Microsoft.Extensions.FileProviders.Abstractions.wasm
+-a----        13.08.2025      0:46           5094 Microsoft.Extensions.FileProviders.Abstractions.wasm.gz
+-a----        13.08.2025      0:46          34069 Microsoft.Extensions.FileProviders.Physical.wasm
+-a----        13.08.2025      0:46          16310 Microsoft.Extensions.FileProviders.Physical.wasm.gz
+-a----        13.08.2025      0:46          35093 Microsoft.Extensions.FileSystemGlobbing.wasm
+-a----        13.08.2025      0:46          16109 Microsoft.Extensions.FileSystemGlobbing.wasm.gz
+-a----        13.08.2025      0:46          54549 Microsoft.Extensions.Logging.Abstractions.wasm
+-a----        13.08.2025      0:46          23619 Microsoft.Extensions.Logging.Abstractions.wasm.gz
+-a----        13.08.2025      0:46          40213 Microsoft.Extensions.Logging.wasm
+-a----        13.08.2025      0:46          18424 Microsoft.Extensions.Logging.wasm.gz
+-a----        13.08.2025      0:46          54037 Microsoft.Extensions.Options.wasm
+-a----        13.08.2025      0:46          23295 Microsoft.Extensions.Options.wasm.gz
+-a----        13.08.2025      0:46          33045 Microsoft.Extensions.Primitives.wasm
+-a----        13.08.2025      0:46          14733 Microsoft.Extensions.Primitives.wasm.gz
+-a----        13.08.2025      0:46          55573 Microsoft.JSInterop.wasm
+-a----        13.08.2025      0:46          24027 Microsoft.JSInterop.wasm.gz
+-a----        13.08.2025      0:46          14101 Microsoft.JSInterop.WebAssembly.wasm
+-a----        13.08.2025      0:46           6763 Microsoft.JSInterop.WebAssembly.wasm.gz
+-a----        13.08.2025      0:46         418581 Microsoft.VisualBasic.Core.wasm
+-a----        13.08.2025      0:46         166938 Microsoft.VisualBasic.Core.wasm.gz
+-a----        13.08.2025      0:46           6933 Microsoft.VisualBasic.wasm
+-a----        13.08.2025      0:46           2850 Microsoft.VisualBasic.wasm.gz
+-a----        13.08.2025      0:46           4885 Microsoft.Win32.Primitives.wasm
+-a----        13.08.2025      0:46           2198 Microsoft.Win32.Primitives.wasm.gz
+-a----        13.08.2025      0:46          21269 Microsoft.Win32.Registry.wasm
+-a----        13.08.2025      0:46           8540 Microsoft.Win32.Registry.wasm.gz
+-a----        13.08.2025      0:46          48917 mscorlib.wasm
+-a----        13.08.2025      0:46          14744 mscorlib.wasm.gz
+-a----        13.08.2025      0:46          90389 netstandard.wasm
+-a----        13.08.2025      0:46          25996 netstandard.wasm.gz
+-a----        13.08.2025      0:46         700181 Newtonsoft.Json.wasm
+-a----        13.08.2025      0:46         260552 Newtonsoft.Json.wasm.gz
+-a----        13.08.2025      0:46           4885 System.AppContext.wasm
+-a----        13.08.2025      0:46           2101 System.AppContext.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Buffers.wasm
+-a----        13.08.2025      0:46           2100 System.Buffers.wasm.gz
+-a----        13.08.2025      0:46          75029 System.Collections.Concurrent.wasm
+-a----        13.08.2025      0:46          32294 System.Collections.Concurrent.wasm.gz
+-a----        13.08.2025      0:46         234773 System.Collections.Immutable.wasm
+-a----        13.08.2025      0:46          95465 System.Collections.Immutable.wasm.gz
+-a----        13.08.2025      0:46          36117 System.Collections.NonGeneric.wasm
+-a----        13.08.2025      0:46          14140 System.Collections.NonGeneric.wasm.gz
+-a----        13.08.2025      0:46          36629 System.Collections.Specialized.wasm
+-a----        13.08.2025      0:46          16042 System.Collections.Specialized.wasm.gz
+-a----        13.08.2025      0:46          91413 System.Collections.wasm
+-a----        13.08.2025      0:46          38920 System.Collections.wasm.gz
+-a----        13.08.2025      0:46          90901 System.ComponentModel.Annotations.wasm
+-a----        13.08.2025      0:46          35250 System.ComponentModel.Annotations.wasm.gz
+-a----        13.08.2025      0:46           6421 System.ComponentModel.DataAnnotations.wasm
+-a----        13.08.2025      0:46           2568 System.ComponentModel.DataAnnotations.wasm.gz
+-a----        13.08.2025      0:46          15637 System.ComponentModel.EventBasedAsync.wasm
+-a----        13.08.2025      0:46           6785 System.ComponentModel.EventBasedAsync.wasm.gz
+-a----        13.08.2025      0:46          30997 System.ComponentModel.Primitives.wasm
+-a----        13.08.2025      0:46          13066 System.ComponentModel.Primitives.wasm.gz
+-a----        13.08.2025      0:46         291605 System.ComponentModel.TypeConverter.wasm
+-a----        13.08.2025      0:46         118075 System.ComponentModel.TypeConverter.wasm.gz
+-a----        13.08.2025      0:46           5909 System.ComponentModel.wasm
+-a----        13.08.2025      0:46           2554 System.ComponentModel.wasm.gz
+-a----        13.08.2025      0:46           8981 System.Configuration.wasm
+-a----        13.08.2025      0:46           3101 System.Configuration.wasm.gz
+-a----        13.08.2025      0:46          43797 System.Console.wasm
+-a----        13.08.2025      0:46          19798 System.Console.wasm.gz
+-a----        13.08.2025      0:46          13077 System.Core.wasm
+-a----        13.08.2025      0:46           4535 System.Core.wasm.gz
+-a----        13.08.2025      0:46        1007893 System.Data.Common.wasm
+-a----        13.08.2025      0:46         376211 System.Data.Common.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Data.DataSetExtensions.wasm
+-a----        13.08.2025      0:46           2065 System.Data.DataSetExtensions.wasm.gz
+-a----        13.08.2025      0:46          14613 System.Data.wasm
+-a----        13.08.2025      0:46           4990 System.Data.wasm.gz
+-a----        13.08.2025      0:46           5909 System.Diagnostics.Contracts.wasm
+-a----        13.08.2025      0:46           2383 System.Diagnostics.Contracts.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Diagnostics.Debug.wasm
+-a----        13.08.2025      0:46           2271 System.Diagnostics.Debug.wasm.gz
+-a----        13.08.2025      0:46         153365 System.Diagnostics.DiagnosticSource.wasm
+-a----        13.08.2025      0:46          65135 System.Diagnostics.DiagnosticSource.wasm.gz
+-a----        13.08.2025      0:46          10517 System.Diagnostics.FileVersionInfo.wasm
+-a----        13.08.2025      0:46           4545 System.Diagnostics.FileVersionInfo.wasm.gz
+-a----        13.08.2025      0:46          44309 System.Diagnostics.Process.wasm
+-a----        13.08.2025      0:46          15497 System.Diagnostics.Process.wasm.gz
+-a----        13.08.2025      0:46          15637 System.Diagnostics.StackTrace.wasm
+-a----        13.08.2025      0:46           7333 System.Diagnostics.StackTrace.wasm.gz
+-a----        13.08.2025      0:46          20757 System.Diagnostics.TextWriterTraceListener.wasm
+-a----        13.08.2025      0:46           9385 System.Diagnostics.TextWriterTraceListener.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Diagnostics.Tools.wasm
+-a----        13.08.2025      0:46           2174 System.Diagnostics.Tools.wasm.gz
+-a----        13.08.2025      0:46          46869 System.Diagnostics.TraceSource.wasm
+-a----        13.08.2025      0:46          19520 System.Diagnostics.TraceSource.wasm.gz
+-a----        13.08.2025      0:46           5909 System.Diagnostics.Tracing.wasm
+-a----        13.08.2025      0:46           2496 System.Diagnostics.Tracing.wasm.gz
+-a----        13.08.2025      0:46          52501 System.Drawing.Primitives.wasm
+-a----        13.08.2025      0:46          23204 System.Drawing.Primitives.wasm.gz
+-a----        13.08.2025      0:46          10005 System.Drawing.wasm
+-a----        13.08.2025      0:46           3834 System.Drawing.wasm.gz
+-a----        13.08.2025      0:46           5909 System.Dynamic.Runtime.wasm
+-a----        13.08.2025      0:46           2433 System.Dynamic.Runtime.wasm.gz
+-a----        13.08.2025      0:46          86293 System.Formats.Asn1.wasm
+-a----        13.08.2025      0:46          35451 System.Formats.Asn1.wasm.gz
+-a----        13.08.2025      0:46          26389 System.Formats.Tar.wasm
+-a----        13.08.2025      0:46           9794 System.Formats.Tar.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Globalization.Calendars.wasm
+-a----        13.08.2025      0:46           2285 System.Globalization.Calendars.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Globalization.Extensions.wasm
+-a----        13.08.2025      0:46           2171 System.Globalization.Extensions.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Globalization.wasm
+-a----        13.08.2025      0:46           2254 System.Globalization.wasm.gz
+-a----        13.08.2025      0:46          16149 System.IO.Compression.Brotli.wasm
+-a----        13.08.2025      0:46           6275 System.IO.Compression.Brotli.wasm.gz
+-a----        13.08.2025      0:46           4885 System.IO.Compression.FileSystem.wasm
+-a----        13.08.2025      0:46           1976 System.IO.Compression.FileSystem.wasm.gz
+-a----        13.08.2025      0:46          97557 System.IO.Compression.wasm
+-a----        13.08.2025      0:46          42209 System.IO.Compression.wasm.gz
+-a----        13.08.2025      0:46          26389 System.IO.Compression.ZipFile.wasm
+-a----        13.08.2025      0:46          12142 System.IO.Compression.ZipFile.wasm.gz
+-a----        13.08.2025      0:46          20245 System.IO.FileSystem.AccessControl.wasm
+-a----        13.08.2025      0:46           7892 System.IO.FileSystem.AccessControl.wasm.gz
+-a----        13.08.2025      0:46          12565 System.IO.FileSystem.DriveInfo.wasm
+-a----        13.08.2025      0:46           5599 System.IO.FileSystem.DriveInfo.wasm.gz
+-a----        13.08.2025      0:46           4885 System.IO.FileSystem.Primitives.wasm
+-a----        13.08.2025      0:46           2173 System.IO.FileSystem.Primitives.wasm.gz
+-a----        13.08.2025      0:46           5397 System.IO.FileSystem.wasm
+-a----        13.08.2025      0:46           2288 System.IO.FileSystem.wasm.gz
+-a----        13.08.2025      0:46          21269 System.IO.FileSystem.Watcher.wasm
+-a----        13.08.2025      0:46           8191 System.IO.FileSystem.Watcher.wasm.gz
+-a----        13.08.2025      0:46          23317 System.IO.IsolatedStorage.wasm
+-a----        13.08.2025      0:46           8770 System.IO.IsolatedStorage.wasm.gz
+-a----        13.08.2025      0:46          37653 System.IO.MemoryMappedFiles.wasm
+-a----        13.08.2025      0:46          16340 System.IO.MemoryMappedFiles.wasm.gz
+-a----        13.08.2025      0:46          67349 System.IO.Pipelines.wasm
+-a----        13.08.2025      0:46          29719 System.IO.Pipelines.wasm.gz
+-a----        13.08.2025      0:46          12053 System.IO.Pipes.AccessControl.wasm
+-a----        13.08.2025      0:46           5303 System.IO.Pipes.AccessControl.wasm.gz
+-a----        13.08.2025      0:46          29973 System.IO.Pipes.wasm
+-a----        13.08.2025      0:46          10474 System.IO.Pipes.wasm.gz
+-a----        13.08.2025      0:46           4885 System.IO.UnmanagedMemoryStream.wasm
+-a----        13.08.2025      0:46           2200 System.IO.UnmanagedMemoryStream.wasm.gz
+-a----        13.08.2025      0:46           5397 System.IO.wasm
+-a----        13.08.2025      0:46           2253 System.IO.wasm.gz
+-a----        13.08.2025      0:46         564501 System.Linq.Expressions.wasm
+-a----        13.08.2025      0:46         213338 System.Linq.Expressions.wasm.gz
+-a----        13.08.2025      0:46         213781 System.Linq.Parallel.wasm
+-a----        13.08.2025      0:46          86887 System.Linq.Parallel.wasm.gz
+-a----        13.08.2025      0:46          63253 System.Linq.Queryable.wasm
+-a----        13.08.2025      0:46          19926 System.Linq.Queryable.wasm.gz
+-a----        13.08.2025      0:46         124181 System.Linq.wasm
+-a----        13.08.2025      0:46          50148 System.Linq.wasm.gz
+-a----        13.08.2025      0:46          44309 System.Memory.wasm
+-a----        13.08.2025      0:46          20342 System.Memory.wasm.gz
+-a----        13.08.2025      0:46          44821 System.Net.Http.Json.wasm
+-a----        13.08.2025      0:46          19097 System.Net.Http.Json.wasm.gz
+-a----        13.08.2025      0:46         266517 System.Net.Http.wasm
+-a----        13.08.2025      0:46         110797 System.Net.Http.wasm.gz
+-a----        13.08.2025      0:46          44309 System.Net.HttpListener.wasm
+-a----        13.08.2025      0:46          15450 System.Net.HttpListener.wasm.gz
+-a----        13.08.2025      0:46          92949 System.Net.Mail.wasm
+-a----        13.08.2025      0:46          41417 System.Net.Mail.wasm.gz
+-a----        13.08.2025      0:46          12565 System.Net.NameResolution.wasm
+-a----        13.08.2025      0:46           5348 System.Net.NameResolution.wasm.gz
+-a----        13.08.2025      0:46          30485 System.Net.NetworkInformation.wasm
+-a----        13.08.2025      0:46          12139 System.Net.NetworkInformation.wasm.gz
+-a----        13.08.2025      0:46          16149 System.Net.Ping.wasm
+-a----        13.08.2025      0:46           6940 System.Net.Ping.wasm.gz
+-a----        13.08.2025      0:46          93973 System.Net.Primitives.wasm
+-a----        13.08.2025      0:46          44976 System.Net.Primitives.wasm.gz
+-a----        13.08.2025      0:46          27413 System.Net.Quic.wasm
+-a----        13.08.2025      0:46          10553 System.Net.Quic.wasm.gz
+-a----        13.08.2025      0:46          49941 System.Net.Requests.wasm
+-a----        13.08.2025      0:46          18142 System.Net.Requests.wasm.gz
+-a----        13.08.2025      0:46          97557 System.Net.Security.wasm
+-a----        13.08.2025      0:46          31580 System.Net.Security.wasm.gz
+-a----        13.08.2025      0:46          15637 System.Net.ServicePoint.wasm
+-a----        13.08.2025      0:46           7236 System.Net.ServicePoint.wasm.gz
+-a----        13.08.2025      0:46          62741 System.Net.Sockets.wasm
+-a----        13.08.2025      0:46          22454 System.Net.Sockets.wasm.gz
+-a----        13.08.2025      0:46           6933 System.Net.wasm
+-a----        13.08.2025      0:46           2736 System.Net.wasm.gz
+-a----        13.08.2025      0:46          41749 System.Net.WebClient.wasm
+-a----        13.08.2025      0:46          13336 System.Net.WebClient.wasm.gz
+-a----        13.08.2025      0:46          22805 System.Net.WebHeaderCollection.wasm
+-a----        13.08.2025      0:46          10637 System.Net.WebHeaderCollection.wasm.gz
+-a----        13.08.2025      0:46          11541 System.Net.WebProxy.wasm
+-a----        13.08.2025      0:46           5607 System.Net.WebProxy.wasm.gz
+-a----        13.08.2025      0:46          36629 System.Net.WebSockets.Client.wasm
+-a----        13.08.2025      0:46          16038 System.Net.WebSockets.Client.wasm.gz
+-a----        13.08.2025      0:46          70933 System.Net.WebSockets.wasm
+-a----        13.08.2025      0:46          31143 System.Net.WebSockets.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Numerics.Vectors.wasm
+-a----        13.08.2025      0:46           2253 System.Numerics.Vectors.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Numerics.wasm
+-a----        13.08.2025      0:46           2017 System.Numerics.wasm.gz
+-a----        13.08.2025      0:46          28949 System.ObjectModel.wasm
+-a----        13.08.2025      0:46          12606 System.ObjectModel.wasm.gz
+-a----        13.08.2025      0:46        4199705 System.Private.CoreLib.wasm
+-a----        13.08.2025      0:46        1394610 System.Private.CoreLib.wasm.gz
+-a----        13.08.2025      0:46         843541 System.Private.DataContractSerialization.wasm
+-a----        13.08.2025      0:46         301140 System.Private.DataContractSerialization.wasm.gz
+-a----        13.08.2025      0:46          91413 System.Private.Uri.wasm
+-a----        13.08.2025      0:46          41144 System.Private.Uri.wasm.gz
+-a----        13.08.2025      0:46         142613 System.Private.Xml.Linq.wasm
+-a----        13.08.2025      0:46          58587 System.Private.Xml.Linq.wasm.gz
+-a----        13.08.2025      0:46        3106073 System.Private.Xml.wasm
+-a----        13.08.2025      0:46        1062982 System.Private.Xml.wasm.gz
+-a----        13.08.2025      0:46          26389 System.Reflection.DispatchProxy.wasm
+-a----        13.08.2025      0:46          12099 System.Reflection.DispatchProxy.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Reflection.Emit.ILGeneration.wasm
+-a----        13.08.2025      0:46           2268 System.Reflection.Emit.ILGeneration.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Reflection.Emit.Lightweight.wasm
+-a----        13.08.2025      0:46           2224 System.Reflection.Emit.Lightweight.wasm.gz
+-a----        13.08.2025      0:46          61205 System.Reflection.Emit.wasm
+-a----        13.08.2025      0:46          26867 System.Reflection.Emit.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Reflection.Extensions.wasm
+-a----        13.08.2025      0:46           2143 System.Reflection.Extensions.wasm.gz
+-a----        13.08.2025      0:46         465173 System.Reflection.Metadata.wasm
+-a----        13.08.2025      0:46         180469 System.Reflection.Metadata.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Reflection.Primitives.wasm
+-a----        13.08.2025      0:46           2353 System.Reflection.Primitives.wasm.gz
+-a----        13.08.2025      0:46          13077 System.Reflection.TypeExtensions.wasm
+-a----        13.08.2025      0:46           5657 System.Reflection.TypeExtensions.wasm.gz
+-a----        13.08.2025      0:46           5909 System.Reflection.wasm
+-a----        13.08.2025      0:46           2446 System.Reflection.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Resources.Reader.wasm
+-a----        13.08.2025      0:46           2104 System.Resources.Reader.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Resources.ResourceManager.wasm
+-a----        13.08.2025      0:46           2230 System.Resources.ResourceManager.wasm.gz
+-a----        13.08.2025      0:46          16149 System.Resources.Writer.wasm
+-a----        13.08.2025      0:46           7611 System.Resources.Writer.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Runtime.CompilerServices.Unsafe.wasm
+-a----        13.08.2025      0:46           2114 System.Runtime.CompilerServices.Unsafe.wasm.gz
+-a----        13.08.2025      0:46           6933 System.Runtime.CompilerServices.VisualC.wasm
+-a----        13.08.2025      0:46           3032 System.Runtime.CompilerServices.VisualC.wasm.gz
+-a----        13.08.2025      0:46           7445 System.Runtime.Extensions.wasm
+-a----        13.08.2025      0:46           2966 System.Runtime.Extensions.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Runtime.Handles.wasm
+-a----        13.08.2025      0:46           2196 System.Runtime.Handles.wasm.gz
+-a----        13.08.2025      0:46          82709 System.Runtime.InteropServices.JavaScript.wasm
+-a----        13.08.2025      0:46          34087 System.Runtime.InteropServices.JavaScript.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Runtime.InteropServices.RuntimeInformation.wasm
+-a----        13.08.2025      0:46           2145 System.Runtime.InteropServices.RuntimeInformation.wasm.gz
+-a----        13.08.2025      0:46          47381 System.Runtime.InteropServices.wasm
+-a----        13.08.2025      0:46          20366 System.Runtime.InteropServices.wasm.gz
+-a----        13.08.2025      0:46           6421 System.Runtime.Intrinsics.wasm
+-a----        13.08.2025      0:46           2634 System.Runtime.Intrinsics.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Runtime.Loader.wasm
+-a----        13.08.2025      0:46           2307 System.Runtime.Loader.wasm.gz
+-a----        13.08.2025      0:46         117525 System.Runtime.Numerics.wasm
+-a----        13.08.2025      0:46          45576 System.Runtime.Numerics.wasm.gz
+-a----        13.08.2025      0:46          55061 System.Runtime.Serialization.Formatters.wasm
+-a----        13.08.2025      0:46          23891 System.Runtime.Serialization.Formatters.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Runtime.Serialization.Json.wasm
+-a----        13.08.2025      0:46           2247 System.Runtime.Serialization.Json.wasm.gz
+-a----        13.08.2025      0:46          12565 System.Runtime.Serialization.Primitives.wasm
+-a----        13.08.2025      0:46           5410 System.Runtime.Serialization.Primitives.wasm.gz
+-a----        13.08.2025      0:46           6421 System.Runtime.Serialization.wasm
+-a----        13.08.2025      0:46           2488 System.Runtime.Serialization.wasm.gz
+-a----        13.08.2025      0:46           6421 System.Runtime.Serialization.Xml.wasm
+-a----        13.08.2025      0:46           2547 System.Runtime.Serialization.Xml.wasm.gz
+-a----        13.08.2025      0:46          33045 System.Runtime.wasm
+-a----        13.08.2025      0:46          10442 System.Runtime.wasm.gz
+-a----        13.08.2025      0:46          45845 System.Security.AccessControl.wasm
+-a----        13.08.2025      0:46          16253 System.Security.AccessControl.wasm.gz
+-a----        13.08.2025      0:46          42261 System.Security.Claims.wasm
+-a----        13.08.2025      0:46          15701 System.Security.Claims.wasm.gz
+-a----        13.08.2025      0:46           6933 System.Security.Cryptography.Algorithms.wasm
+-a----        13.08.2025      0:46           2693 System.Security.Cryptography.Algorithms.wasm.gz
+-a----        13.08.2025      0:46           5909 System.Security.Cryptography.Cng.wasm
+-a----        13.08.2025      0:46           2463 System.Security.Cryptography.Cng.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Security.Cryptography.Csp.wasm
+-a----        13.08.2025      0:46           2317 System.Security.Cryptography.Csp.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Security.Cryptography.Encoding.wasm
+-a----        13.08.2025      0:46           2258 System.Security.Cryptography.Encoding.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Security.Cryptography.OpenSsl.wasm
+-a----        13.08.2025      0:46           2197 System.Security.Cryptography.OpenSsl.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Security.Cryptography.Primitives.wasm
+-a----        13.08.2025      0:46           2322 System.Security.Cryptography.Primitives.wasm.gz
+-a----        13.08.2025      0:46         469269 System.Security.Cryptography.wasm
+-a----        13.08.2025      0:46         177347 System.Security.Cryptography.wasm.gz
+-a----        13.08.2025      0:46           6421 System.Security.Cryptography.X509Certificates.wasm
+-a----        13.08.2025      0:46           2657 System.Security.Cryptography.X509Certificates.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Security.Principal.wasm
+-a----        13.08.2025      0:46           2155 System.Security.Principal.wasm.gz
+-a----        13.08.2025      0:46          25877 System.Security.Principal.Windows.wasm
+-a----        13.08.2025      0:46          10530 System.Security.Principal.Windows.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Security.SecureString.wasm
+-a----        13.08.2025      0:46           2181 System.Security.SecureString.wasm.gz
+-a----        13.08.2025      0:46           7957 System.Security.wasm
+-a----        13.08.2025      0:46           2948 System.Security.wasm.gz
+-a----        13.08.2025      0:46           6421 System.ServiceModel.Web.wasm
+-a----        13.08.2025      0:46           2528 System.ServiceModel.Web.wasm.gz
+-a----        13.08.2025      0:46           5397 System.ServiceProcess.wasm
+-a----        13.08.2025      0:46           2287 System.ServiceProcess.wasm.gz
+-a----        13.08.2025      0:46         729877 System.Text.Encoding.CodePages.wasm
+-a----        13.08.2025      0:46         514587 System.Text.Encoding.CodePages.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Text.Encoding.Extensions.wasm
+-a----        13.08.2025      0:46           2250 System.Text.Encoding.Extensions.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Text.Encoding.wasm
+-a----        13.08.2025      0:46           2223 System.Text.Encoding.wasm.gz
+-a----        13.08.2025      0:46          60181 System.Text.Encodings.Web.wasm
+-a----        13.08.2025      0:46          23479 System.Text.Encodings.Web.wasm.gz
+-a----        13.08.2025      0:46         569621 System.Text.Json.wasm
+-a----        13.08.2025      0:46         200898 System.Text.Json.wasm.gz
+-a----        13.08.2025      0:46         348949 System.Text.RegularExpressions.wasm
+-a----        13.08.2025      0:46         149514 System.Text.RegularExpressions.wasm.gz
+-a----        13.08.2025      0:46          42261 System.Threading.Channels.wasm
+-a----        13.08.2025      0:46          19230 System.Threading.Channels.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Threading.Overlapped.wasm
+-a----        13.08.2025      0:46           2298 System.Threading.Overlapped.wasm.gz
+-a----        13.08.2025      0:46         175893 System.Threading.Tasks.Dataflow.wasm
+-a----        13.08.2025      0:46          73780 System.Threading.Tasks.Dataflow.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Threading.Tasks.Extensions.wasm
+-a----        13.08.2025      0:46           2291 System.Threading.Tasks.Extensions.wasm.gz
+-a----        13.08.2025      0:46          51989 System.Threading.Tasks.Parallel.wasm
+-a----        13.08.2025      0:46          21575 System.Threading.Tasks.Parallel.wasm.gz
+-a----        13.08.2025      0:46           6421 System.Threading.Tasks.wasm
+-a----        13.08.2025      0:46           2556 System.Threading.Tasks.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Threading.Thread.wasm
+-a----        13.08.2025      0:46           2326 System.Threading.Thread.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Threading.ThreadPool.wasm
+-a----        13.08.2025      0:46           2247 System.Threading.ThreadPool.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Threading.Timer.wasm
+-a----        13.08.2025      0:46           2117 System.Threading.Timer.wasm.gz
+-a----        13.08.2025      0:46          33557 System.Threading.wasm
+-a----        13.08.2025      0:46          14271 System.Threading.wasm.gz
+-a----        13.08.2025      0:46         164117 System.Transactions.Local.wasm
+-a----        13.08.2025      0:46          51108 System.Transactions.Local.wasm.gz
+-a----        13.08.2025      0:46           5909 System.Transactions.wasm
+-a----        13.08.2025      0:46           2362 System.Transactions.wasm.gz
+-a----        13.08.2025      0:46           4885 System.ValueTuple.wasm
+-a----        13.08.2025      0:46           2166 System.ValueTuple.wasm.gz
+-a----        13.08.2025      0:46          39701 System.wasm
+-a----        13.08.2025      0:46          11738 System.wasm.gz
+-a----        13.08.2025      0:46          17173 System.Web.HttpUtility.wasm
+-a----        13.08.2025      0:46           8368 System.Web.HttpUtility.wasm.gz
+-a----        13.08.2025      0:46           4885 System.Web.wasm
+-a----        13.08.2025      0:46           2107 System.Web.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Windows.wasm
+-a----        13.08.2025      0:46           2259 System.Windows.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Xml.Linq.wasm
+-a----        13.08.2025      0:46           2195 System.Xml.Linq.wasm.gz
+-a----        13.08.2025      0:46          11541 System.Xml.ReaderWriter.wasm
+-a----        13.08.2025      0:46           3998 System.Xml.ReaderWriter.wasm.gz
+-a----        13.08.2025      0:46           5909 System.Xml.Serialization.wasm
+-a----        13.08.2025      0:46           2229 System.Xml.Serialization.wasm.gz
+-a----        13.08.2025      0:46          13077 System.Xml.wasm
+-a----        13.08.2025      0:46           4203 System.Xml.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Xml.XDocument.wasm
+-a----        13.08.2025      0:46           2388 System.Xml.XDocument.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Xml.XmlDocument.wasm
+-a----        13.08.2025      0:46           2350 System.Xml.XmlDocument.wasm.gz
+-a----        13.08.2025      0:46           7445 System.Xml.XmlSerializer.wasm
+-a----        13.08.2025      0:46           2841 System.Xml.XmlSerializer.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Xml.XPath.wasm
+-a----        13.08.2025      0:46           2313 System.Xml.XPath.wasm.gz
+-a----        13.08.2025      0:46           5397 System.Xml.XPath.XDocument.wasm
+-a----        13.08.2025      0:46           2481 System.Xml.XPath.XDocument.wasm.gz
+-a----        13.08.2025      0:46           5909 WindowsBase.wasm
+-a----        13.08.2025      0:46           2510 WindowsBase.wasm.gz
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\Layout
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        12.08.2025     23:34            525 MainLayout.razor
+-a----        12.08.2025     23:34           1880 MainLayout.razor.css
+-a----        13.08.2025      0:32            626 NavMenu.razor
+-a----        12.08.2025     23:34           3414 NavMenu.razor.css
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\Models
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:18           2685 LastFmArtist.cs
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:45                Debug
+-a----        13.08.2025      0:45           3515 BlazorApp3.Client.csproj.nuget.dgspec.json
+-a----        13.08.2025      0:45           2708 BlazorApp3.Client.csproj.nuget.g.props
+-a----        13.08.2025      0:45           1813 BlazorApp3.Client.csproj.nuget.g.targets
+-a----        13.08.2025      0:45          75668 project.assets.json
+-a----        13.08.2025      0:46           4149 project.nuget.cache
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:46                net8.0
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:46                compressed
+d-----        13.08.2025      0:46                ref
+d-----        13.08.2025      0:46                refint
+d-----        13.08.2025      0:45                scopedcss
+d-----        13.08.2025      0:45                staticwebassets
+d-----        13.08.2025      0:45                tmp-webcil
+d-----        13.08.2025      0:45                wasm
+d-----        13.08.2025      0:46                webcil
+-a----        13.08.2025      0:45            198 .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+-a----        13.08.2025      0:46          19835 blazor.boot.json
+-a----        13.08.2025      0:46              3 blazor.build.boot-extension.json
+-a----        13.08.2025      0:46              0 BlazorAp.7E9C1E14.Up2Date
+-a----        13.08.2025      0:46           1024 BlazorApp3.Client.AssemblyInfo.cs
+-a----        13.08.2025      0:46             66 BlazorApp3.Client.AssemblyInfoInputs.cache
+-a----        13.08.2025      0:45          17732 BlazorApp3.Client.assets.cache
+-a----        13.08.2025      0:46          15708 BlazorApp3.Client.csproj.AssemblyReference.cache
+-a----        13.08.2025      0:45              0 BlazorApp3.Client.csproj.BuildWithSkipAnalyzers
+-a----        13.08.2025      0:46             66 BlazorApp3.Client.csproj.CoreCompileInputs.cache
+-a----        13.08.2025      0:46         133026 BlazorApp3.Client.csproj.FileListAbsolute.txt
+-a----        13.08.2025      0:46          22016 BlazorApp3.Client.dll
+-a----        13.08.2025      0:46           2504 BlazorApp3.Client.GeneratedMSBuildEditorConfig.editorconfig
+-a----        13.08.2025      0:45            469 BlazorApp3.Client.GlobalUsings.g.cs
+-a----        13.08.2025      0:46              0 BlazorApp3.Client.MvcApplicationPartsAssemblyInfo.cache
+-a----        13.08.2025      0:46          24292 BlazorApp3.Client.pdb
+-a----        13.08.2025      0:46         257054 rbcswa.dswa.cache.json
+-a----        13.08.2025      0:46            369 rjimswa.dswa.cache.json
+-a----        13.08.2025      0:46            800 rjsmcshtml.dswa.cache.json
+-a----        13.08.2025      0:46            800 rjsmrazor.dswa.cache.json
+-a----        13.08.2025      0:46           2393 rpswa.dswa.cache.json
+-a----        13.08.2025      0:46         422477 staticwebassets.build.endpoints.json
+-a----        13.08.2025      0:46         921182 staticwebassets.build.json
+-a----        13.08.2025      0:46             44 staticwebassets.build.json.cache
+-a----        13.08.2025      0:46          60732 staticwebassets.development.json
+-a----        13.08.2025      0:45              0 staticwebassets.references.upToDateCheck.txt
+-a----        13.08.2025      0:45              0 staticwebassets.removed.txt
+-a----        13.08.2025      0:46             64 staticwebassets.upToDateCheck.txt
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0\compressed
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46          18142 03v2q5xpqr-2hj63ci8rv.gz
+-a----        13.08.2025      0:46          25996 07ogp9wztu-wdu3swnr5d.gz
+-a----        13.08.2025      0:46          22454 08lh2zdxqy-unh9dcomvw.gz
+-a----        13.08.2025      0:46          65135 0b6d668ffy-wimw2ns6lw.gz
+-a----        13.08.2025      0:46         196037 0i72a8197f-tptq2av103.gz
+-a----        13.08.2025      0:46           2259 0odmhxrbtq-27a4vygtpy.gz
+-a----        13.08.2025      0:46           9794 0vgdeul765-4mvqtcug65.gz
+-a----        13.08.2025      0:46           2174 0ybiq6vpuy-fvm2ngcr48.gz
+-a----        13.08.2025      0:46          23479 1c4tolzqsx-2ajdoqs76n.gz
+-a----        13.08.2025      0:46           8368 1pl7tewbgt-ypowrxy7wd.gz
+-a----        13.08.2025      0:46           2446 1td8ydi058-33edlitld5.gz
+-a----        13.08.2025      0:46           6940 1tfcod7uvh-vmo58qpakg.gz
+-a----        13.08.2025      0:46          20342 258q7vko7i-mpn732uqya.gz
+-a----        13.08.2025      0:46           2181 2eo8lip8k4-wph54iczvl.gz
+-a----        13.08.2025      0:46         166938 2f72b8dzos-7gkyr67xtv.gz
+-a----        13.08.2025      0:46          10637 2w1e5vdoyd-l2l2ltyd45.gz
+-a----        13.08.2025      0:46           2268 2xhzfedcjm-x10p6vb5o1.gz
+-a----        13.08.2025      0:46           6275 300qnlg097-7z0nwtmxth.gz
+-a----        13.08.2025      0:46           2107 3d9vt4184r-7uqm2o6mrt.gz
+-a----        13.08.2025      0:46        1394610 3hr6ylu8dq-ca7xvkair8.gz
+-a----        13.08.2025      0:46          45576 3jrvdyzgtx-tevz2rxv03.gz
+-a----        13.08.2025      0:46          23295 3nd8qz5zsq-jt8xzja2dj.gz
+-a----        13.08.2025      0:46           2247 3oa7z5fo5p-4504uil91m.gz
+-a----        13.08.2025      0:46         213338 3pg63kte1j-phnkpfomsf.gz
+-a----        13.08.2025      0:46          13336 3t08f49x9s-gdlhxx7d3d.gz
+-a----        13.08.2025      0:46           4203 3una5doujq-c4tbamrc23.gz
+-a----        13.08.2025      0:46           2145 47ledmvfan-e166dbze3x.gz
+-a----        13.08.2025      0:46           5348 4ape97m1kr-5vts7pty9f.gz
+-a----        13.08.2025      0:46           2966 4e3h9g6jfk-aqyivsi4ww.gz
+-a----        13.08.2025      0:46           2250 4iv3brgywo-tfbjdenkda.gz
+-a----        13.08.2025      0:46           2195 4pg0016erq-z8gxd8ohkk.gz
+-a----        13.08.2025      0:46           2948 5cbp2um0ri-llbv1bt9ia.gz
+-a----        13.08.2025      0:46           2407 5eqm79ebkg-ddqsdv7y4u.gz
+-a----        13.08.2025      0:46          19097 5ezhtdkv4f-5h4qeqvpct.gz
+-a----        13.08.2025      0:46           7236 5go390a32l-f4tji67iif.gz
+-a----        13.08.2025      0:46           2481 5phmi1jv0t-4udnbcic2g.gz
+-a----        13.08.2025      0:46          31143 5rdrhk29fv-wfui322r6r.gz
+-a----        13.08.2025      0:46           2200 5rtwnxg4fk-y9iazfp5js.gz
+-a----        13.08.2025      0:46           2166 5uzscz7l42-wirrgpti8v.gz
+-a----        13.08.2025      0:46          10474 5w0kwtn6nb-gdm999tm2k.gz
+-a----        13.08.2025      0:46           2171 632r5nl6u5-4w8u9k5eo8.gz
+-a----        13.08.2025      0:46          16042 65l4jsk5p9-2opgsuyzdq.gz
+-a----        13.08.2025      0:46         177347 67dk71vrv4-j8n5wpdcm1.gz
+-a----        13.08.2025      0:46         317618 6ba3n45e9x-lfu7j35m59.gz
+-a----        13.08.2025      0:46          10442 6d6tr1lgnq-csb6bonkde.gz
+-a----        13.08.2025      0:46         129425 6liyd2u4pq-gi5xw90xsp.gz
+-a----        13.08.2025      0:46          11738 6nq4sewteg-90zzm4wpe2.gz
+-a----        13.08.2025      0:46           2198 6uaa9lxk8w-ob3ufi4fqk.gz
+-a----        13.08.2025      0:46          73780 6xiubvag4f-98ohzu3ser.gz
+-a----        13.08.2025      0:46          13066 6z3h33qgmd-1qbclyfq0c.gz
+-a----        13.08.2025      0:46           2155 7cts1i0pn8-9xj9aqpw24.gz
+-a----        13.08.2025      0:46         100294 7idwps1fa4-71cgy4v0iu.gz
+-a----        13.08.2025      0:46          14733 7j93f5b0sx-lsakbjp1fg.gz
+-a----        13.08.2025      0:46           2488 7jvaib6pon-e89ppuu7k7.gz
+-a----        13.08.2025      0:46          16109 7leoqkcwaw-i464dwxnbb.gz
+-a----        13.08.2025      0:46           2104 7o0ecpb2s3-ewl98tul8l.gz
+-a----        13.08.2025      0:46           1976 7rubkg5khm-k7dpb0k852.gz
+-a----        13.08.2025      0:46           2253 7ws6uh8p2g-ac7vww4w0f.gz
+-a----        13.08.2025      0:46           6763 8awkweqbhl-5bm13b0a71.gz
+-a----        13.08.2025      0:46          23619 8rb1swueg5-tz325eqvv5.gz
+-a----        13.08.2025      0:46          64972 9rp6xoxsjm-5xyxcxd807.gz
+-a----        13.08.2025      0:46           2547 a04vod56rq-o9xq9gng3a.gz
+-a----        13.08.2025      0:46         200898 al8uq0qyya-y77f0q2jiz.gz
+-a----        13.08.2025      0:46          12142 aon3hr2obe-4jjz0f9l8n.gz
+-a----        13.08.2025      0:46           2224 apd1mn98xs-2x01piogkl.gz
+-a----        13.08.2025      0:46           2634 asupq4hq3i-ky49thkcr1.gz
+-a----        13.08.2025      0:46          19025 azk1c4pdhz-mv535bwyet.gz
+-a----        13.08.2025      0:46          32294 b3h8cwy6gd-wkvlktgcbf.gz
+-a----        13.08.2025      0:46           2388 b4pxrkrw5d-f86xewhtqv.gz
+-a----        13.08.2025      0:46           2298 bfbxkrmjj8-wt4cebwtn6.gz
+-a----        13.08.2025      0:46          51108 bh1u5c8m3u-5hvfye6qoi.gz
+-a----        13.08.2025      0:46          14140 bijgc7b8oi-zvfvcnkeqw.gz
+-a----        13.08.2025      0:46          12099 bl6fodjg1d-fp6b7gpga0.gz
+-a----        13.08.2025      0:46           2510 bo316lwgdc-tbdtztqv1t.gz
+-a----        13.08.2025      0:46           7611 bo74nux7i2-39k1nfngnz.gz
+-a----        13.08.2025      0:46          16297 bwv7kbqw8j-2g5r6uvks6.gz
+-a----        13.08.2025      0:46        1062982 ccj88vlqdi-j4j0p3sezv.gz
+-a----        13.08.2025      0:46           2253 cet1k87fc3-qd8jcxuejk.gz
+-a----        13.08.2025      0:46           4535 cgh2ybo38a-r9jmmtv20h.gz
+-a----        13.08.2025      0:46           2291 cmiak07jhu-i8gmcudjp4.gz
+-a----        13.08.2025      0:46         514587 cpe4uei979-501013jqq7.gz
+-a----        13.08.2025      0:46           2693 d2ocjr4zfj-6uhz3mq5sr.gz
+-a----        13.08.2025      0:46           9611 dbfhw0vcop-p3p87nc40u.gz
+-a----        13.08.2025      0:46         118075 deig4ujii4-1uhk0scgum.gz
+-a----        13.08.2025      0:46          31580 dinufmn0av-y69hjda7vs.gz
+-a----        13.08.2025      0:46          41417 diruo7g9a9-vjvzmohf3g.gz
+-a----        13.08.2025      0:46           2287 dmn0v5v56w-ju8b6wkj4l.gz
+-a----        13.08.2025      0:46           2433 do5v608fxd-0fg9z069wq.gz
+-a----        13.08.2025      0:46           5303 etfi02aasn-byx4v6lkqb.gz
+-a----        13.08.2025      0:46          50148 euo2nfhtse-neb9za32h3.gz
+-a----        13.08.2025      0:46          35118 eyef6b89si-xqsu2wsvba.gz
+-a----        13.08.2025      0:46          18725 eysbnxf7md-2fgdoze07w.gz
+-a----        13.08.2025      0:46          19798 f018db4kgg-2rjniiy7z6.gz
+-a----        13.08.2025      0:46           2554 ffumlti9fr-ijlq5pvv78.gz
+-a----        13.08.2025      0:46          95465 fh7i3d1xv6-4jr4birkq0.gz
+-a----        13.08.2025      0:46          15497 fjjs6071oy-yrog283sx9.gz
+-a----        13.08.2025      0:46          11441 fjlnkkl8i5-tnb9oatilq.gz
+-a----        13.08.2025      0:46           2383 fnbuaa1t0n-qmknj358bz.gz
+-a----        13.08.2025      0:46         110797 fukxya79h3-5s7iwn8e8c.gz
+-a----        13.08.2025      0:46           7333 fvuswrogdo-77nlfvmku1.gz
+-a----        13.08.2025      0:46           2736 g04c7c3mpp-4lwf5jhkkr.gz
+-a----        13.08.2025      0:46          41144 g6buylfzn8-14sc1lmfv1.gz
+-a----        13.08.2025      0:46           2288 gj3x8668td-5rr269ioy5.gz
+-a----        13.08.2025      0:46         260552 gt0yywsrif-qkbufwhni2.gz
+-a----        13.08.2025      0:46          16038 gz7a1ptlby-u31z1wtmsb.gz
+-a----        13.08.2025      0:46          12139 h5gjvrx6be-kx2wpc9cxg.gz
+-a----        13.08.2025      0:46          44976 hdfkpomyra-vowkclmnz0.gz
+-a----        13.08.2025      0:46          18424 hevxf7l6o9-xlpspxuy08.gz
+-a----        13.08.2025      0:46           5607 hoj9qtctf8-amq7fan8jq.gz
+-a----        13.08.2025      0:46           2173 htbaeyy0mf-n58idervis.gz
+-a----        13.08.2025      0:46           2229 ieiwlk9o9c-i6e3iw7mdj.gz
+-a----        13.08.2025      0:46          14744 ieoswmj1ex-wjb94l3mto.gz
+-a----        13.08.2025      0:46           7892 ikbdsd5nij-tfb9n29nv5.gz
+-a----        13.08.2025      0:46           2556 ims4tap4n4-ukwfres67f.gz
+-a----        13.08.2025      0:46           2463 iuebdl7hcs-6tvotfdupx.gz
+-a----        13.08.2025      0:46          16310 iwm9bgchnl-rpvltkbyzt.gz
+-a----        13.08.2025      0:46           2101 j3df9icy38-w6kyelcsn0.gz
+-a----        13.08.2025      0:46           2362 j4b4qoj2sp-jwsv0oxz0a.gz
+-a----        13.08.2025      0:46          17683 j8etw1jzfy-wa7o635x6x.gz
+-a----        13.08.2025      0:46          19926 jfdz6ai79t-30ivik7ohh.gz
+-a----        13.08.2025      0:46          19520 jhfr3wbkp3-eozsju7o9n.gz
+-a----        13.08.2025      0:46           2258 ji614tg20i-pmmcfa8h3f.gz
+-a----        13.08.2025      0:46          65393 jk6mogptc7-rxfx7zr9qq.gz
+-a----        13.08.2025      0:46          16253 jnr1gbvwql-krk0gy88zz.gz
+-a----        13.08.2025      0:46          46095 jrpl118gzq-bwzm6bfcxo.gz
+-a----        13.08.2025      0:46           2017 jsttasixrw-vhh8h6fhg8.gz
+-a----        13.08.2025      0:46           8191 jvtllarsvk-vocgtpngjj.gz
+-a----        13.08.2025      0:46          29719 jwv2o9yg4c-iudrcw56e1.gz
+-a----        13.08.2025      0:46          35250 k9ljx4z59t-5yd9k763g0.gz
+-a----        13.08.2025      0:46           8770 kch4hj4oxx-n7acbc9gop.gz
+-a----        13.08.2025      0:46           2223 kgttynev71-wevososzbf.gz
+-a----        13.08.2025      0:46          58587 kimey73s43-usfz4jiotn.gz
+-a----        13.08.2025      0:46          20683 kl3j57e62q-kgyjb8k43h.gz
+-a----        13.08.2025      0:46           3101 kmwkjz5os9-dr2j8q671b.gz
+-a----        13.08.2025      0:46           3998 kngo190vdd-e4nvsteufh.gz
+-a----        13.08.2025      0:46          23204 l41re7ywf9-12dzv5ys7x.gz
+-a----        13.08.2025      0:46           5657 l97hv0p8fn-ei09e0f2fy.gz
+-a----        13.08.2025      0:46          16753 laqzizal2g-q96e03fi2o.gz
+-a----        13.08.2025      0:46         376211 ld6ipopsge-m6v68o18fv.gz
+-a----        13.08.2025      0:46         149514 ljjahox5rt-kx2ypmatz2.gz
+-a----        13.08.2025      0:46          16340 lm7jvqhach-y4ywjpivcs.gz
+-a----        13.08.2025      0:46          26867 lopv0lol76-ty3xl71xeh.gz
+-a----        13.08.2025      0:46           2230 lpbwzw3zil-8yv5nzqr73.gz
+-a----        13.08.2025      0:46           2285 lw5wx6wm5x-mol04hq4hb.gz
+-a----        13.08.2025      0:46          10530 m7zjyjdwx5-p9le073w63.gz
+-a----        13.08.2025      0:46           2065 mfo8qtog3f-0pm555janh.gz
+-a----        13.08.2025      0:46          86887 mort0or994-7a2v0haqvf.gz
+-a----        13.08.2025      0:46           2850 mp7gs8csz8-efc2vm46q1.gz
+-a----        13.08.2025      0:46           2271 mq0tl5vjl3-0q8t59t5qr.gz
+-a----        13.08.2025      0:46           2657 n5k7h1o19v-vnjdvzn9fg.gz
+-a----        13.08.2025      0:46           2247 n9w1x786hv-4uiyfh09z8.gz
+-a----        13.08.2025      0:46           8540 nd6c8oxzxo-h8b9dr8w5n.gz
+-a----        13.08.2025      0:46           2196 nm88f04l96-v37m17pi1z.gz
+-a----        13.08.2025      0:46          15095 nzdfa51sbi-4njtqvtvgx.gz
+-a----        13.08.2025      0:46           2496 o71wikclqm-ve1wrl318a.gz
+-a----        13.08.2025      0:46           2326 oao9jtm82v-tqqeexxi5a.gz
+-a----        13.08.2025      0:46         333110 otzzzruw25-tjcz0u77k5.gz
+-a----        13.08.2025      0:46           2568 ow4ohz58z8-85petes2km.gz
+-a----        13.08.2025      0:46          23891 p1tox028ap-pfjt66vjgj.gz
+-a----        13.08.2025      0:46           8940 p4v732075o-knjryhhvwg.gz
+-a----        13.08.2025      0:46          42209 pf7cahvgey-97xm6k63pv.gz
+-a----        13.08.2025      0:46          12606 pk4hk8daq1-d6uni9tyu0.gz
+-a----        13.08.2025      0:46           7793 pnkymag9yh-8kr5d0tjmo.gz
+-a----        13.08.2025      0:46          38920 pwlpm74gk2-ik41awfo8z.gz
+-a----        13.08.2025      0:46           3834 q3y5gclus2-jbasu5rncb.gz
+-a----        13.08.2025      0:46           2313 qlq8mzlp3a-mctxb61euh.gz
+-a----        13.08.2025      0:46           2841 qov8a4ohic-ykwnqbb6vx.gz
+-a----        13.08.2025      0:46           2114 qts7n0l39z-0fiehhsniu.gz
+-a----        13.08.2025      0:46           5599 r4zk98geri-6mbckphete.gz
+-a----        13.08.2025      0:46         180469 s1k6huwyxb-2kar36hudn.gz
+-a----        13.08.2025      0:46          35451 s2hp0y1dkh-0gy5zungyn.gz
+-a----        13.08.2025      0:46           2528 s2yygcpkki-9x8o0dlm1k.gz
+-a----        13.08.2025      0:46          21575 s3lqp0pdud-2r9lvs7ic5.gz
+-a----        13.08.2025      0:46           6785 s7yyadj1jw-xsusqx03ss.gz
+-a----        13.08.2025      0:46         131198 sb4o04qeaj-dojsha5bs8.gz
+-a----        13.08.2025      0:46           2254 seey4bq3ez-j1owzrhtpm.gz
+-a----        13.08.2025      0:46           5094 sh3d5mv7qp-1c7ksbormu.gz
+-a----        13.08.2025      0:46           2322 srgce1nry5-3ms4k0tj42.gz
+-a----        13.08.2025      0:46           2100 tjtyq0kyp3-lszihh0zj3.gz
+-a----        13.08.2025      0:46          19230 tqh6yi0hq0-vxp7phfowl.gz
+-a----        13.08.2025      0:46           2353 uwxu8e4mf3-94oh706pyo.gz
+-a----        13.08.2025      0:46            592 ux8d8758da-oyz0vx2fzb.gz
+-a----        13.08.2025      0:46           7509 v8hq4j1l4q-yy6f57640l.gz
+-a----        13.08.2025      0:46           2117 v9exzjahc0-1z7402y91j.gz
+-a----        13.08.2025      0:46          15450 vc1kmvgba4-vna6lvaiq6.gz
+-a----        13.08.2025      0:46         301140 viafxqf2jp-qsgqxu8al4.gz
+-a----        13.08.2025      0:46           2197 vxe5hc16vt-hn0az7qfwc.gz
+-a----        13.08.2025      0:46           4545 w7kv1snoif-huym6t5s4u.gz
+-a----        13.08.2025      0:46           3032 wpltobju5k-ilifwagu6u.gz
+-a----        13.08.2025      0:46           5410 wsxqhv2jy0-fvnanxyocq.gz
+-a----        13.08.2025      0:46          13809 x1sey5f9ol-0r3amze666.gz
+-a----        13.08.2025      0:46          20366 x4jaw7djjg-0vygl0kie7.gz
+-a----        13.08.2025      0:46          34087 x7kpjuxws4-8qi3a4rzi8.gz
+-a----        13.08.2025      0:46           9385 y0zul5znbm-phh89a5hqy.gz
+-a----        13.08.2025      0:46          24027 yekph6lgob-ambo9zkwtr.gz
+-a----        13.08.2025      0:46           2317 ymg0vmczs2-h48cyp9irl.gz
+-a----        13.08.2025      0:46          10553 yoiv8wxnqm-xgjzaa6gw9.gz
+-a----        13.08.2025      0:46           2143 yqg5w4acqu-i66eet680w.gz
+-a----        13.08.2025      0:46           2350 ytxd8gfl8h-w25fhrkbff.gz
+-a----        13.08.2025      0:46           4990 zd2mut4rw5-l4ybfsbrgx.gz
+-a----        13.08.2025      0:46        1154406 zldn5hlulk-q34fwb6a9a.gz
+-a----        13.08.2025      0:46          14271 zouvgu2mmy-fjl5hbx7ly.gz
+-a----        13.08.2025      0:46          36156 zt3qb7t4rb-lsohh1u1gk.gz
+-a----        13.08.2025      0:46           2307 zuuok2onpa-vo2332efn8.gz
+-a----        13.08.2025      0:46          15701 zvwfzxhued-mda2tkh5hy.gz
+-a----        13.08.2025      0:46           7680 zxq6pgfic0-en8mb8dgz5.gz
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0\ref
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46          10752 BlazorApp3.Client.dll
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0\refint
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46          10752 BlazorApp3.Client.dll
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0\scopedcss
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:46                bundle
+d-----        13.08.2025      0:46                Layout
+d-----        13.08.2025      0:46                projectbundle
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0\scopedcss\bundle
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46           5843 BlazorApp3.Client.styles.css
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0\scopedcss\Layout
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46           2112 MainLayout.razor.rz.scp.css
+-a----        13.08.2025      0:46           3648 NavMenu.razor.rz.scp.css
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0\scopedcss\projectbundle
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46           5843 BlazorApp3.Client.bundle.scp.css
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0\tmp-webcil
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46          21781 BlazorApp3.Client.wasm
+-a----        13.08.2025      0:46          40725 Microsoft.AspNetCore.Authorization.wasm
+-a----        13.08.2025      0:46          35093 Microsoft.AspNetCore.Components.Forms.wasm
+-a----        13.08.2025      0:46         323861 Microsoft.AspNetCore.Components.wasm
+-a----        13.08.2025      0:46         163605 Microsoft.AspNetCore.Components.Web.wasm
+-a----        13.08.2025      0:46         110357 Microsoft.AspNetCore.Components.WebAssembly.wasm
+-a----        13.08.2025      0:46           5397 Microsoft.AspNetCore.Metadata.wasm
+-a----        13.08.2025      0:46         298261 Microsoft.CSharp.wasm
+-a----        13.08.2025      0:46          17173 Microsoft.Extensions.Configuration.Abstractions.wasm
+-a----        13.08.2025      0:46          32021 Microsoft.Extensions.Configuration.Binder.wasm
+-a----        13.08.2025      0:46          17173 Microsoft.Extensions.Configuration.FileExtensions.wasm
+-a----        13.08.2025      0:46          16149 Microsoft.Extensions.Configuration.Json.wasm
+-a----        13.08.2025      0:46          33045 Microsoft.Extensions.Configuration.wasm
+-a----        13.08.2025      0:46          53013 Microsoft.Extensions.DependencyInjection.Abstractions.wasm
+-a----        13.08.2025      0:46          82197 Microsoft.Extensions.DependencyInjection.wasm
+-a----        13.08.2025      0:46          11541 Microsoft.Extensions.FileProviders.Abstractions.wasm
+-a----        13.08.2025      0:46          34069 Microsoft.Extensions.FileProviders.Physical.wasm
+-a----        13.08.2025      0:46          35093 Microsoft.Extensions.FileSystemGlobbing.wasm
+-a----        13.08.2025      0:46          54549 Microsoft.Extensions.Logging.Abstractions.wasm
+-a----        13.08.2025      0:46          40213 Microsoft.Extensions.Logging.wasm
+-a----        13.08.2025      0:46          54037 Microsoft.Extensions.Options.wasm
+-a----        13.08.2025      0:46          33045 Microsoft.Extensions.Primitives.wasm
+-a----        13.08.2025      0:46          55573 Microsoft.JSInterop.wasm
+-a----        13.08.2025      0:46          14101 Microsoft.JSInterop.WebAssembly.wasm
+-a----        13.08.2025      0:46         418581 Microsoft.VisualBasic.Core.wasm
+-a----        13.08.2025      0:46           6933 Microsoft.VisualBasic.wasm
+-a----        13.08.2025      0:46           4885 Microsoft.Win32.Primitives.wasm
+-a----        13.08.2025      0:46          21269 Microsoft.Win32.Registry.wasm
+-a----        13.08.2025      0:46          48917 mscorlib.wasm
+-a----        13.08.2025      0:46          90389 netstandard.wasm
+-a----        13.08.2025      0:46         700181 Newtonsoft.Json.wasm
+-a----        13.08.2025      0:46           4885 System.AppContext.wasm
+-a----        13.08.2025      0:46           4885 System.Buffers.wasm
+-a----        13.08.2025      0:46          75029 System.Collections.Concurrent.wasm
+-a----        13.08.2025      0:46         234773 System.Collections.Immutable.wasm
+-a----        13.08.2025      0:46          36117 System.Collections.NonGeneric.wasm
+-a----        13.08.2025      0:46          36629 System.Collections.Specialized.wasm
+-a----        13.08.2025      0:46          91413 System.Collections.wasm
+-a----        13.08.2025      0:46          90901 System.ComponentModel.Annotations.wasm
+-a----        13.08.2025      0:46           6421 System.ComponentModel.DataAnnotations.wasm
+-a----        13.08.2025      0:46          15637 System.ComponentModel.EventBasedAsync.wasm
+-a----        13.08.2025      0:46          30997 System.ComponentModel.Primitives.wasm
+-a----        13.08.2025      0:46         291605 System.ComponentModel.TypeConverter.wasm
+-a----        13.08.2025      0:46           5909 System.ComponentModel.wasm
+-a----        13.08.2025      0:46           8981 System.Configuration.wasm
+-a----        13.08.2025      0:46          43797 System.Console.wasm
+-a----        13.08.2025      0:46          13077 System.Core.wasm
+-a----        13.08.2025      0:46        1007893 System.Data.Common.wasm
+-a----        13.08.2025      0:46           5397 System.Data.DataSetExtensions.wasm
+-a----        13.08.2025      0:46          14613 System.Data.wasm
+-a----        13.08.2025      0:46           5909 System.Diagnostics.Contracts.wasm
+-a----        13.08.2025      0:46           5397 System.Diagnostics.Debug.wasm
+-a----        13.08.2025      0:46         153365 System.Diagnostics.DiagnosticSource.wasm
+-a----        13.08.2025      0:46          10517 System.Diagnostics.FileVersionInfo.wasm
+-a----        13.08.2025      0:46          44309 System.Diagnostics.Process.wasm
+-a----        13.08.2025      0:46          15637 System.Diagnostics.StackTrace.wasm
+-a----        13.08.2025      0:46          20757 System.Diagnostics.TextWriterTraceListener.wasm
+-a----        13.08.2025      0:46           4885 System.Diagnostics.Tools.wasm
+-a----        13.08.2025      0:46          46869 System.Diagnostics.TraceSource.wasm
+-a----        13.08.2025      0:46           5909 System.Diagnostics.Tracing.wasm
+-a----        13.08.2025      0:46          52501 System.Drawing.Primitives.wasm
+-a----        13.08.2025      0:46          10005 System.Drawing.wasm
+-a----        13.08.2025      0:46           5909 System.Dynamic.Runtime.wasm
+-a----        13.08.2025      0:46          86293 System.Formats.Asn1.wasm
+-a----        13.08.2025      0:46          26389 System.Formats.Tar.wasm
+-a----        13.08.2025      0:46           5397 System.Globalization.Calendars.wasm
+-a----        13.08.2025      0:46           4885 System.Globalization.Extensions.wasm
+-a----        13.08.2025      0:46           5397 System.Globalization.wasm
+-a----        13.08.2025      0:46          16149 System.IO.Compression.Brotli.wasm
+-a----        13.08.2025      0:46           4885 System.IO.Compression.FileSystem.wasm
+-a----        13.08.2025      0:46          97557 System.IO.Compression.wasm
+-a----        13.08.2025      0:46          26389 System.IO.Compression.ZipFile.wasm
+-a----        13.08.2025      0:46          20245 System.IO.FileSystem.AccessControl.wasm
+-a----        13.08.2025      0:46          12565 System.IO.FileSystem.DriveInfo.wasm
+-a----        13.08.2025      0:46           4885 System.IO.FileSystem.Primitives.wasm
+-a----        13.08.2025      0:46           5397 System.IO.FileSystem.wasm
+-a----        13.08.2025      0:46          21269 System.IO.FileSystem.Watcher.wasm
+-a----        13.08.2025      0:46          23317 System.IO.IsolatedStorage.wasm
+-a----        13.08.2025      0:46          37653 System.IO.MemoryMappedFiles.wasm
+-a----        13.08.2025      0:46          67349 System.IO.Pipelines.wasm
+-a----        13.08.2025      0:46          12053 System.IO.Pipes.AccessControl.wasm
+-a----        13.08.2025      0:46          29973 System.IO.Pipes.wasm
+-a----        13.08.2025      0:46           4885 System.IO.UnmanagedMemoryStream.wasm
+-a----        13.08.2025      0:46           5397 System.IO.wasm
+-a----        13.08.2025      0:46         564501 System.Linq.Expressions.wasm
+-a----        13.08.2025      0:46         213781 System.Linq.Parallel.wasm
+-a----        13.08.2025      0:46          63253 System.Linq.Queryable.wasm
+-a----        13.08.2025      0:46         124181 System.Linq.wasm
+-a----        13.08.2025      0:46          44309 System.Memory.wasm
+-a----        13.08.2025      0:46          44821 System.Net.Http.Json.wasm
+-a----        13.08.2025      0:46         266517 System.Net.Http.wasm
+-a----        13.08.2025      0:46          44309 System.Net.HttpListener.wasm
+-a----        13.08.2025      0:46          92949 System.Net.Mail.wasm
+-a----        13.08.2025      0:46          12565 System.Net.NameResolution.wasm
+-a----        13.08.2025      0:46          30485 System.Net.NetworkInformation.wasm
+-a----        13.08.2025      0:46          16149 System.Net.Ping.wasm
+-a----        13.08.2025      0:46          93973 System.Net.Primitives.wasm
+-a----        13.08.2025      0:46          27413 System.Net.Quic.wasm
+-a----        13.08.2025      0:46          49941 System.Net.Requests.wasm
+-a----        13.08.2025      0:46          97557 System.Net.Security.wasm
+-a----        13.08.2025      0:46          15637 System.Net.ServicePoint.wasm
+-a----        13.08.2025      0:46          62741 System.Net.Sockets.wasm
+-a----        13.08.2025      0:46           6933 System.Net.wasm
+-a----        13.08.2025      0:46          41749 System.Net.WebClient.wasm
+-a----        13.08.2025      0:46          22805 System.Net.WebHeaderCollection.wasm
+-a----        13.08.2025      0:46          11541 System.Net.WebProxy.wasm
+-a----        13.08.2025      0:46          36629 System.Net.WebSockets.Client.wasm
+-a----        13.08.2025      0:46          70933 System.Net.WebSockets.wasm
+-a----        13.08.2025      0:46           5397 System.Numerics.Vectors.wasm
+-a----        13.08.2025      0:46           4885 System.Numerics.wasm
+-a----        13.08.2025      0:46          28949 System.ObjectModel.wasm
+-a----        13.08.2025      0:46        4199705 System.Private.CoreLib.wasm
+-a----        13.08.2025      0:46         843541 System.Private.DataContractSerialization.wasm
+-a----        13.08.2025      0:46          91413 System.Private.Uri.wasm
+-a----        13.08.2025      0:46         142613 System.Private.Xml.Linq.wasm
+-a----        13.08.2025      0:46        3106073 System.Private.Xml.wasm
+-a----        13.08.2025      0:46          26389 System.Reflection.DispatchProxy.wasm
+-a----        13.08.2025      0:46           5397 System.Reflection.Emit.ILGeneration.wasm
+-a----        13.08.2025      0:46           5397 System.Reflection.Emit.Lightweight.wasm
+-a----        13.08.2025      0:46          61205 System.Reflection.Emit.wasm
+-a----        13.08.2025      0:46           4885 System.Reflection.Extensions.wasm
+-a----        13.08.2025      0:46         465173 System.Reflection.Metadata.wasm
+-a----        13.08.2025      0:46           5397 System.Reflection.Primitives.wasm
+-a----        13.08.2025      0:46          13077 System.Reflection.TypeExtensions.wasm
+-a----        13.08.2025      0:46           5909 System.Reflection.wasm
+-a----        13.08.2025      0:46           4885 System.Resources.Reader.wasm
+-a----        13.08.2025      0:46           5397 System.Resources.ResourceManager.wasm
+-a----        13.08.2025      0:46          16149 System.Resources.Writer.wasm
+-a----        13.08.2025      0:46           4885 System.Runtime.CompilerServices.Unsafe.wasm
+-a----        13.08.2025      0:46           6933 System.Runtime.CompilerServices.VisualC.wasm
+-a----        13.08.2025      0:46           7445 System.Runtime.Extensions.wasm
+-a----        13.08.2025      0:46           4885 System.Runtime.Handles.wasm
+-a----        13.08.2025      0:46          82709 System.Runtime.InteropServices.JavaScript.wasm
+-a----        13.08.2025      0:46           4885 System.Runtime.InteropServices.RuntimeInformation.wasm
+-a----        13.08.2025      0:46          47381 System.Runtime.InteropServices.wasm
+-a----        13.08.2025      0:46           6421 System.Runtime.Intrinsics.wasm
+-a----        13.08.2025      0:46           5397 System.Runtime.Loader.wasm
+-a----        13.08.2025      0:46         117525 System.Runtime.Numerics.wasm
+-a----        13.08.2025      0:46          55061 System.Runtime.Serialization.Formatters.wasm
+-a----        13.08.2025      0:46           5397 System.Runtime.Serialization.Json.wasm
+-a----        13.08.2025      0:46          12565 System.Runtime.Serialization.Primitives.wasm
+-a----        13.08.2025      0:46           6421 System.Runtime.Serialization.wasm
+-a----        13.08.2025      0:46           6421 System.Runtime.Serialization.Xml.wasm
+-a----        13.08.2025      0:46          33045 System.Runtime.wasm
+-a----        13.08.2025      0:46          45845 System.Security.AccessControl.wasm
+-a----        13.08.2025      0:46          42261 System.Security.Claims.wasm
+-a----        13.08.2025      0:46           6933 System.Security.Cryptography.Algorithms.wasm
+-a----        13.08.2025      0:46           5909 System.Security.Cryptography.Cng.wasm
+-a----        13.08.2025      0:46           5397 System.Security.Cryptography.Csp.wasm
+-a----        13.08.2025      0:46           5397 System.Security.Cryptography.Encoding.wasm
+-a----        13.08.2025      0:46           4885 System.Security.Cryptography.OpenSsl.wasm
+-a----        13.08.2025      0:46           5397 System.Security.Cryptography.Primitives.wasm
+-a----        13.08.2025      0:46         469269 System.Security.Cryptography.wasm
+-a----        13.08.2025      0:46           6421 System.Security.Cryptography.X509Certificates.wasm
+-a----        13.08.2025      0:46           4885 System.Security.Principal.wasm
+-a----        13.08.2025      0:46          25877 System.Security.Principal.Windows.wasm
+-a----        13.08.2025      0:46           4885 System.Security.SecureString.wasm
+-a----        13.08.2025      0:46           7957 System.Security.wasm
+-a----        13.08.2025      0:46           6421 System.ServiceModel.Web.wasm
+-a----        13.08.2025      0:46           5397 System.ServiceProcess.wasm
+-a----        13.08.2025      0:46         729877 System.Text.Encoding.CodePages.wasm
+-a----        13.08.2025      0:46           5397 System.Text.Encoding.Extensions.wasm
+-a----        13.08.2025      0:46           5397 System.Text.Encoding.wasm
+-a----        13.08.2025      0:46          60181 System.Text.Encodings.Web.wasm
+-a----        13.08.2025      0:46         569621 System.Text.Json.wasm
+-a----        13.08.2025      0:46         348949 System.Text.RegularExpressions.wasm
+-a----        13.08.2025      0:46          42261 System.Threading.Channels.wasm
+-a----        13.08.2025      0:46           5397 System.Threading.Overlapped.wasm
+-a----        13.08.2025      0:46         175893 System.Threading.Tasks.Dataflow.wasm
+-a----        13.08.2025      0:46           5397 System.Threading.Tasks.Extensions.wasm
+-a----        13.08.2025      0:46          51989 System.Threading.Tasks.Parallel.wasm
+-a----        13.08.2025      0:46           6421 System.Threading.Tasks.wasm
+-a----        13.08.2025      0:46           5397 System.Threading.Thread.wasm
+-a----        13.08.2025      0:46           5397 System.Threading.ThreadPool.wasm
+-a----        13.08.2025      0:46           4885 System.Threading.Timer.wasm
+-a----        13.08.2025      0:46          33557 System.Threading.wasm
+-a----        13.08.2025      0:46         164117 System.Transactions.Local.wasm
+-a----        13.08.2025      0:46           5909 System.Transactions.wasm
+-a----        13.08.2025      0:46           4885 System.ValueTuple.wasm
+-a----        13.08.2025      0:46          39701 System.wasm
+-a----        13.08.2025      0:46          17173 System.Web.HttpUtility.wasm
+-a----        13.08.2025      0:46           4885 System.Web.wasm
+-a----        13.08.2025      0:46           5397 System.Windows.wasm
+-a----        13.08.2025      0:46           5397 System.Xml.Linq.wasm
+-a----        13.08.2025      0:46          11541 System.Xml.ReaderWriter.wasm
+-a----        13.08.2025      0:46           5909 System.Xml.Serialization.wasm
+-a----        13.08.2025      0:46          13077 System.Xml.wasm
+-a----        13.08.2025      0:46           5397 System.Xml.XDocument.wasm
+-a----        13.08.2025      0:46           5397 System.Xml.XmlDocument.wasm
+-a----        13.08.2025      0:46           7445 System.Xml.XmlSerializer.wasm
+-a----        13.08.2025      0:46           5397 System.Xml.XPath.wasm
+-a----        13.08.2025      0:46           5397 System.Xml.XPath.XDocument.wasm
+-a----        13.08.2025      0:46           5909 WindowsBase.wasm
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0\wasm
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        13.08.2025      0:45                for-build
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\obj\Debug\net8.0\webcil
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:46          21781 BlazorApp3.Client.wasm
+-a----        13.08.2025      0:46          40725 Microsoft.AspNetCore.Authorization.wasm
+-a----        13.08.2025      0:46          35093 Microsoft.AspNetCore.Components.Forms.wasm
+-a----        13.08.2025      0:46         323861 Microsoft.AspNetCore.Components.wasm
+-a----        13.08.2025      0:46         163605 Microsoft.AspNetCore.Components.Web.wasm
+-a----        13.08.2025      0:46         110357 Microsoft.AspNetCore.Components.WebAssembly.wasm
+-a----        13.08.2025      0:46           5397 Microsoft.AspNetCore.Metadata.wasm
+-a----        13.08.2025      0:46         298261 Microsoft.CSharp.wasm
+-a----        13.08.2025      0:46          17173 Microsoft.Extensions.Configuration.Abstractions.wasm
+-a----        13.08.2025      0:46          32021 Microsoft.Extensions.Configuration.Binder.wasm
+-a----        13.08.2025      0:46          17173 Microsoft.Extensions.Configuration.FileExtensions.wasm
+-a----        13.08.2025      0:46          16149 Microsoft.Extensions.Configuration.Json.wasm
+-a----        13.08.2025      0:46          33045 Microsoft.Extensions.Configuration.wasm
+-a----        13.08.2025      0:46          53013 Microsoft.Extensions.DependencyInjection.Abstractions.wasm
+-a----        13.08.2025      0:46          82197 Microsoft.Extensions.DependencyInjection.wasm
+-a----        13.08.2025      0:46          11541 Microsoft.Extensions.FileProviders.Abstractions.wasm
+-a----        13.08.2025      0:46          34069 Microsoft.Extensions.FileProviders.Physical.wasm
+-a----        13.08.2025      0:46          35093 Microsoft.Extensions.FileSystemGlobbing.wasm
+-a----        13.08.2025      0:46          54549 Microsoft.Extensions.Logging.Abstractions.wasm
+-a----        13.08.2025      0:46          40213 Microsoft.Extensions.Logging.wasm
+-a----        13.08.2025      0:46          54037 Microsoft.Extensions.Options.wasm
+-a----        13.08.2025      0:46          33045 Microsoft.Extensions.Primitives.wasm
+-a----        13.08.2025      0:46          55573 Microsoft.JSInterop.wasm
+-a----        13.08.2025      0:46          14101 Microsoft.JSInterop.WebAssembly.wasm
+-a----        13.08.2025      0:46         418581 Microsoft.VisualBasic.Core.wasm
+-a----        13.08.2025      0:46           6933 Microsoft.VisualBasic.wasm
+-a----        13.08.2025      0:46           4885 Microsoft.Win32.Primitives.wasm
+-a----        13.08.2025      0:46          21269 Microsoft.Win32.Registry.wasm
+-a----        13.08.2025      0:46          48917 mscorlib.wasm
+-a----        13.08.2025      0:46          90389 netstandard.wasm
+-a----        13.08.2025      0:46         700181 Newtonsoft.Json.wasm
+-a----        13.08.2025      0:46           4885 System.AppContext.wasm
+-a----        13.08.2025      0:46           4885 System.Buffers.wasm
+-a----        13.08.2025      0:46          75029 System.Collections.Concurrent.wasm
+-a----        13.08.2025      0:46         234773 System.Collections.Immutable.wasm
+-a----        13.08.2025      0:46          36117 System.Collections.NonGeneric.wasm
+-a----        13.08.2025      0:46          36629 System.Collections.Specialized.wasm
+-a----        13.08.2025      0:46          91413 System.Collections.wasm
+-a----        13.08.2025      0:46          90901 System.ComponentModel.Annotations.wasm
+-a----        13.08.2025      0:46           6421 System.ComponentModel.DataAnnotations.wasm
+-a----        13.08.2025      0:46          15637 System.ComponentModel.EventBasedAsync.wasm
+-a----        13.08.2025      0:46          30997 System.ComponentModel.Primitives.wasm
+-a----        13.08.2025      0:46         291605 System.ComponentModel.TypeConverter.wasm
+-a----        13.08.2025      0:46           5909 System.ComponentModel.wasm
+-a----        13.08.2025      0:46           8981 System.Configuration.wasm
+-a----        13.08.2025      0:46          43797 System.Console.wasm
+-a----        13.08.2025      0:46          13077 System.Core.wasm
+-a----        13.08.2025      0:46        1007893 System.Data.Common.wasm
+-a----        13.08.2025      0:46           5397 System.Data.DataSetExtensions.wasm
+-a----        13.08.2025      0:46          14613 System.Data.wasm
+-a----        13.08.2025      0:46           5909 System.Diagnostics.Contracts.wasm
+-a----        13.08.2025      0:46           5397 System.Diagnostics.Debug.wasm
+-a----        13.08.2025      0:46         153365 System.Diagnostics.DiagnosticSource.wasm
+-a----        13.08.2025      0:46          10517 System.Diagnostics.FileVersionInfo.wasm
+-a----        13.08.2025      0:46          44309 System.Diagnostics.Process.wasm
+-a----        13.08.2025      0:46          15637 System.Diagnostics.StackTrace.wasm
+-a----        13.08.2025      0:46          20757 System.Diagnostics.TextWriterTraceListener.wasm
+-a----        13.08.2025      0:46           4885 System.Diagnostics.Tools.wasm
+-a----        13.08.2025      0:46          46869 System.Diagnostics.TraceSource.wasm
+-a----        13.08.2025      0:46           5909 System.Diagnostics.Tracing.wasm
+-a----        13.08.2025      0:46          52501 System.Drawing.Primitives.wasm
+-a----        13.08.2025      0:46          10005 System.Drawing.wasm
+-a----        13.08.2025      0:46           5909 System.Dynamic.Runtime.wasm
+-a----        13.08.2025      0:46          86293 System.Formats.Asn1.wasm
+-a----        13.08.2025      0:46          26389 System.Formats.Tar.wasm
+-a----        13.08.2025      0:46           5397 System.Globalization.Calendars.wasm
+-a----        13.08.2025      0:46           4885 System.Globalization.Extensions.wasm
+-a----        13.08.2025      0:46           5397 System.Globalization.wasm
+-a----        13.08.2025      0:46          16149 System.IO.Compression.Brotli.wasm
+-a----        13.08.2025      0:46           4885 System.IO.Compression.FileSystem.wasm
+-a----        13.08.2025      0:46          97557 System.IO.Compression.wasm
+-a----        13.08.2025      0:46          26389 System.IO.Compression.ZipFile.wasm
+-a----        13.08.2025      0:46          20245 System.IO.FileSystem.AccessControl.wasm
+-a----        13.08.2025      0:46          12565 System.IO.FileSystem.DriveInfo.wasm
+-a----        13.08.2025      0:46           4885 System.IO.FileSystem.Primitives.wasm
+-a----        13.08.2025      0:46           5397 System.IO.FileSystem.wasm
+-a----        13.08.2025      0:46          21269 System.IO.FileSystem.Watcher.wasm
+-a----        13.08.2025      0:46          23317 System.IO.IsolatedStorage.wasm
+-a----        13.08.2025      0:46          37653 System.IO.MemoryMappedFiles.wasm
+-a----        13.08.2025      0:46          67349 System.IO.Pipelines.wasm
+-a----        13.08.2025      0:46          12053 System.IO.Pipes.AccessControl.wasm
+-a----        13.08.2025      0:46          29973 System.IO.Pipes.wasm
+-a----        13.08.2025      0:46           4885 System.IO.UnmanagedMemoryStream.wasm
+-a----        13.08.2025      0:46           5397 System.IO.wasm
+-a----        13.08.2025      0:46         564501 System.Linq.Expressions.wasm
+-a----        13.08.2025      0:46         213781 System.Linq.Parallel.wasm
+-a----        13.08.2025      0:46          63253 System.Linq.Queryable.wasm
+-a----        13.08.2025      0:46         124181 System.Linq.wasm
+-a----        13.08.2025      0:46          44309 System.Memory.wasm
+-a----        13.08.2025      0:46          44821 System.Net.Http.Json.wasm
+-a----        13.08.2025      0:46         266517 System.Net.Http.wasm
+-a----        13.08.2025      0:46          44309 System.Net.HttpListener.wasm
+-a----        13.08.2025      0:46          92949 System.Net.Mail.wasm
+-a----        13.08.2025      0:46          12565 System.Net.NameResolution.wasm
+-a----        13.08.2025      0:46          30485 System.Net.NetworkInformation.wasm
+-a----        13.08.2025      0:46          16149 System.Net.Ping.wasm
+-a----        13.08.2025      0:46          93973 System.Net.Primitives.wasm
+-a----        13.08.2025      0:46          27413 System.Net.Quic.wasm
+-a----        13.08.2025      0:46          49941 System.Net.Requests.wasm
+-a----        13.08.2025      0:46          97557 System.Net.Security.wasm
+-a----        13.08.2025      0:46          15637 System.Net.ServicePoint.wasm
+-a----        13.08.2025      0:46          62741 System.Net.Sockets.wasm
+-a----        13.08.2025      0:46           6933 System.Net.wasm
+-a----        13.08.2025      0:46          41749 System.Net.WebClient.wasm
+-a----        13.08.2025      0:46          22805 System.Net.WebHeaderCollection.wasm
+-a----        13.08.2025      0:46          11541 System.Net.WebProxy.wasm
+-a----        13.08.2025      0:46          36629 System.Net.WebSockets.Client.wasm
+-a----        13.08.2025      0:46          70933 System.Net.WebSockets.wasm
+-a----        13.08.2025      0:46           5397 System.Numerics.Vectors.wasm
+-a----        13.08.2025      0:46           4885 System.Numerics.wasm
+-a----        13.08.2025      0:46          28949 System.ObjectModel.wasm
+-a----        13.08.2025      0:46        4199705 System.Private.CoreLib.wasm
+-a----        13.08.2025      0:46         843541 System.Private.DataContractSerialization.wasm
+-a----        13.08.2025      0:46          91413 System.Private.Uri.wasm
+-a----        13.08.2025      0:46         142613 System.Private.Xml.Linq.wasm
+-a----        13.08.2025      0:46        3106073 System.Private.Xml.wasm
+-a----        13.08.2025      0:46          26389 System.Reflection.DispatchProxy.wasm
+-a----        13.08.2025      0:46           5397 System.Reflection.Emit.ILGeneration.wasm
+-a----        13.08.2025      0:46           5397 System.Reflection.Emit.Lightweight.wasm
+-a----        13.08.2025      0:46          61205 System.Reflection.Emit.wasm
+-a----        13.08.2025      0:46           4885 System.Reflection.Extensions.wasm
+-a----        13.08.2025      0:46         465173 System.Reflection.Metadata.wasm
+-a----        13.08.2025      0:46           5397 System.Reflection.Primitives.wasm
+-a----        13.08.2025      0:46          13077 System.Reflection.TypeExtensions.wasm
+-a----        13.08.2025      0:46           5909 System.Reflection.wasm
+-a----        13.08.2025      0:46           4885 System.Resources.Reader.wasm
+-a----        13.08.2025      0:46           5397 System.Resources.ResourceManager.wasm
+-a----        13.08.2025      0:46          16149 System.Resources.Writer.wasm
+-a----        13.08.2025      0:46           4885 System.Runtime.CompilerServices.Unsafe.wasm
+-a----        13.08.2025      0:46           6933 System.Runtime.CompilerServices.VisualC.wasm
+-a----        13.08.2025      0:46           7445 System.Runtime.Extensions.wasm
+-a----        13.08.2025      0:46           4885 System.Runtime.Handles.wasm
+-a----        13.08.2025      0:46          82709 System.Runtime.InteropServices.JavaScript.wasm
+-a----        13.08.2025      0:46           4885 System.Runtime.InteropServices.RuntimeInformation.wasm
+-a----        13.08.2025      0:46          47381 System.Runtime.InteropServices.wasm
+-a----        13.08.2025      0:46           6421 System.Runtime.Intrinsics.wasm
+-a----        13.08.2025      0:46           5397 System.Runtime.Loader.wasm
+-a----        13.08.2025      0:46         117525 System.Runtime.Numerics.wasm
+-a----        13.08.2025      0:46          55061 System.Runtime.Serialization.Formatters.wasm
+-a----        13.08.2025      0:46           5397 System.Runtime.Serialization.Json.wasm
+-a----        13.08.2025      0:46          12565 System.Runtime.Serialization.Primitives.wasm
+-a----        13.08.2025      0:46           6421 System.Runtime.Serialization.wasm
+-a----        13.08.2025      0:46           6421 System.Runtime.Serialization.Xml.wasm
+-a----        13.08.2025      0:46          33045 System.Runtime.wasm
+-a----        13.08.2025      0:46          45845 System.Security.AccessControl.wasm
+-a----        13.08.2025      0:46          42261 System.Security.Claims.wasm
+-a----        13.08.2025      0:46           6933 System.Security.Cryptography.Algorithms.wasm
+-a----        13.08.2025      0:46           5909 System.Security.Cryptography.Cng.wasm
+-a----        13.08.2025      0:46           5397 System.Security.Cryptography.Csp.wasm
+-a----        13.08.2025      0:46           5397 System.Security.Cryptography.Encoding.wasm
+-a----        13.08.2025      0:46           4885 System.Security.Cryptography.OpenSsl.wasm
+-a----        13.08.2025      0:46           5397 System.Security.Cryptography.Primitives.wasm
+-a----        13.08.2025      0:46         469269 System.Security.Cryptography.wasm
+-a----        13.08.2025      0:46           6421 System.Security.Cryptography.X509Certificates.wasm
+-a----        13.08.2025      0:46           4885 System.Security.Principal.wasm
+-a----        13.08.2025      0:46          25877 System.Security.Principal.Windows.wasm
+-a----        13.08.2025      0:46           4885 System.Security.SecureString.wasm
+-a----        13.08.2025      0:46           7957 System.Security.wasm
+-a----        13.08.2025      0:46           6421 System.ServiceModel.Web.wasm
+-a----        13.08.2025      0:46           5397 System.ServiceProcess.wasm
+-a----        13.08.2025      0:46         729877 System.Text.Encoding.CodePages.wasm
+-a----        13.08.2025      0:46           5397 System.Text.Encoding.Extensions.wasm
+-a----        13.08.2025      0:46           5397 System.Text.Encoding.wasm
+-a----        13.08.2025      0:46          60181 System.Text.Encodings.Web.wasm
+-a----        13.08.2025      0:46         569621 System.Text.Json.wasm
+-a----        13.08.2025      0:46         348949 System.Text.RegularExpressions.wasm
+-a----        13.08.2025      0:46          42261 System.Threading.Channels.wasm
+-a----        13.08.2025      0:46           5397 System.Threading.Overlapped.wasm
+-a----        13.08.2025      0:46         175893 System.Threading.Tasks.Dataflow.wasm
+-a----        13.08.2025      0:46           5397 System.Threading.Tasks.Extensions.wasm
+-a----        13.08.2025      0:46          51989 System.Threading.Tasks.Parallel.wasm
+-a----        13.08.2025      0:46           6421 System.Threading.Tasks.wasm
+-a----        13.08.2025      0:46           5397 System.Threading.Thread.wasm
+-a----        13.08.2025      0:46           5397 System.Threading.ThreadPool.wasm
+-a----        13.08.2025      0:46           4885 System.Threading.Timer.wasm
+-a----        13.08.2025      0:46          33557 System.Threading.wasm
+-a----        13.08.2025      0:46         164117 System.Transactions.Local.wasm
+-a----        13.08.2025      0:46           5909 System.Transactions.wasm
+-a----        13.08.2025      0:46           4885 System.ValueTuple.wasm
+-a----        13.08.2025      0:46          39701 System.wasm
+-a----        13.08.2025      0:46          17173 System.Web.HttpUtility.wasm
+-a----        13.08.2025      0:46           4885 System.Web.wasm
+-a----        13.08.2025      0:46           5397 System.Windows.wasm
+-a----        13.08.2025      0:46           5397 System.Xml.Linq.wasm
+-a----        13.08.2025      0:46          11541 System.Xml.ReaderWriter.wasm
+-a----        13.08.2025      0:46           5909 System.Xml.Serialization.wasm
+-a----        13.08.2025      0:46          13077 System.Xml.wasm
+-a----        13.08.2025      0:46           5397 System.Xml.XDocument.wasm
+-a----        13.08.2025      0:46           5397 System.Xml.XmlDocument.wasm
+-a----        13.08.2025      0:46           7445 System.Xml.XmlSerializer.wasm
+-a----        13.08.2025      0:46           5397 System.Xml.XPath.wasm
+-a----        13.08.2025      0:46           5397 System.Xml.XPath.XDocument.wasm
+-a----        13.08.2025      0:46           5909 WindowsBase.wasm
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\Pages
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        13.08.2025      0:18           2382 Artist.razor
+-a----        12.08.2025     23:41            103 Home.razor
+
+
+    Каталог: C:\Users\danya\Source\Repos\BlazorApp3\BlazorApp3\BlazorApp3.Client\wwwroot
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        12.08.2025     23:34            127 appsettings.Development.json
+-a----        12.08.2025     23:34            127 appsettings.json

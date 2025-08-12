@@ -1,0 +1,83 @@
+﻿@page "/"
+@inject HttpClient Http
+@using Newtonsoft.Json
+@using BlazorApp3.Client.Models
+@using System.Linq
+@using System.Collections.Generic
+@using Microsoft.AspNetCore.Components
+@inject NavigationManager Navigation
+
+<div class="mb-3">
+    <input @bind="artistName" placeholder="Enter artist name" class="form-control" />
+    <button class="btn btn-primary mt-2" @onclick="SearchArtist">Search</button>
+</div>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">@errorMessage</div>
+}
+else if (artist != null)
+{
+    <h2>@artist.Name</h2>
+
+    <img src="@artist.Image?.FirstOrDefault(i => i.Size == "large")?.Text"
+         alt="@artist.Name" style="max-width:200px; display:block; margin-bottom:10px;" />
+
+    <p>@(new MarkupString(artist.Bio?.Summary ?? ""))</p>
+
+    <p><b>Listeners:</b> @artist.Stats?.Listeners</p>
+    <p><b>Playcount:</b> @artist.Stats?.Playcount</p>
+
+    <h3>Similar Artists</h3>
+    <ul>
+        @foreach (var simArtist in artist.Similar?.ArtistList ?? new List<LastFmArtist>())
+        {
+            <li><a href="@simArtist.Url" target="_blank">@simArtist.Name</a></li>
+        }
+    </ul>
+
+    <h3>Tags</h3>
+    <ul>
+        @foreach (var tag in artist.Tags?.TagList ?? new List<Tag>())
+        {
+            <li><a href="@tag.Url" target="_blank">@tag.Name</a></li>
+        }
+    </ul>
+}
+
+@code {
+    private string artistName = "";
+    private LastFmArtist? artist;
+    private string errorMessage = "";
+
+    private async Task SearchArtist()
+    {
+        if (string.IsNullOrWhiteSpace(artistName))
+        {
+            errorMessage = "Please enter an artist name.";
+            artist = null;
+            return;
+        }
+
+        errorMessage = "";
+        artist = null;
+
+        try
+        {
+            var apiKey = "ecf92467c590a9e82ef24e841e4b642e";
+            var baseUri = Navigation.BaseUri;
+            var url = $"{baseUri}api/artist?artistName={Uri.EscapeDataString(artistName)}";
+            var json = await Http.GetStringAsync(url);
+            var root = JsonConvert.DeserializeObject<Root>(json);
+
+            artist = root?.Artist;
+
+            if (artist == null)
+                errorMessage = "Artist not found.";
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error: {ex.Message}";
+        }
+    }
+}
